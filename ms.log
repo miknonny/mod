@@ -59035,3 +59035,2478 @@ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/2010010
 
 bQkLAUphMzg3Y2ZjZjYwMTE0YTQzYTc2OTlmOWZiYjQ5Mjg5ZS05YmNlYjlmZS0xYzA2LTQ2MGYtOTZjNS02YTBiMjQ3MzU4YmMtNzIzOAoBSRJhY3RfZGVmYXVsdF9zb3VyY2WpJDVhN2UyZmZhLTUyMTEtNDg0Ny04YTFjLWUxYzNhYjY0ZDBhNtEGor6PmpNbywgKASkkNDFhNTMwYzMtMDg5Yy00OThhLWJjZDgtNDUxNDYzZTMwMDA5cciuj5qTW6kGY3VzdG9tyQYJYXd0X3N0YXRzzQ0JCQ8IVGVuYW50SWQgYzZjMTkwYTFiNzNjNGE2M2JiYTg5ODM1ZDU0NmNmMjgWcmVjb3Jkc19yZWNlaXZlZF9jb3VudAE3EnJlY29yZHNfc2VudF9jb3VudAE3EEFwcEluZm8uTGFuZ3VhZ2UFZW4tVVMRVXNlckluZm8uTGFuZ3VhZ2UFZW4tVVMRVXNlckluZm8uVGltZVpvbmUGKzAxOjAwFkRldmljZUluZm8uQnJvd3Nlck5hbWUHRmlyZWZveBlEZXZpY2VJbmZvLkJyb3dzZXJWZXJzaW9uBDY4LjARRGV2aWNlSW5mby5Pc05hbWUITWFjIE9TIFgURGV2aWNlSW5mby5Pc1ZlcnNpb24CMTAQRXZlbnRJbmZvLkluaXRJZCQzYThmNTdkMC05YzBmLTQzMTUtYjQ2Yi1kNTE4Yzg0YjI1M2YSRXZlbnRJbmZvLlNlcXVlbmNlATEURXZlbnRJbmZvLlNka1ZlcnNpb24QQVdULVdlYi1KUy0xLjYuMQ5FdmVudEluZm8uTmFtZQlhd3Rfc3RhdHMORXZlbnRJbmZvLlRpbWUYMjAxOS0wOC0xNlQwODo1Mzo0MS40MTJaAAAA
 ======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:33 WAT
+======
+RemoteIP: 127.0.0.1:60824
+======
+UUID: 
+======
+GET /assets/loginpage/img/security/unknown-device@2x.2c67cc8b770105c89c9c7ffb0787e814.png HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://ok4static.oktacdn.com/assets/loginpage/css/okta-login-page.min.da7bba772e6259c1f6c640db1efa01fe.css
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:37 WAT
+======
+RemoteIP: 127.0.0.1:60847
+======
+UUID: 
+======
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:47 WAT
+======
+RemoteIP: 127.0.0.1:60887
+======
+UUID: 
+======
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:48 WAT
+======
+RemoteIP: 127.0.0.1:60887
+======
+UUID: 
+======
+URL: http://login.microsoftonline.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:48 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:49 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFs; expires=Tue, 17-Sep-2019 15:39:49 GMT; path=/; secure; HttpOnly####esctx=AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxO_8lXyuffCt1OgG3u1iXCFj5cpz1EOuYRLiyU8mRsoqdYSQERjZODqLMVvbubK4AEarD-hgT4DV6hzy6VhrkXH4JaZoJ22pdgoYFQ-icfRR6IfMjIayC76h6nHQgYilps-EimOWEn4fKbT2-RwgMQaN0ZnggaU2kqmeFIFP5RvcgAA; domain=.login.microsoftonline.com; path=/; secure; HttpOnly####x-ms-gateway-slice=prod; path=/; secure; HttpOnly####stsservicecookie=ests; path=/; secure; HttpOnly
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:49 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFs; expires=Tue, 17-Sep-2019 15:39:49 GMT; path=/; ; HttpOnly####esctx=AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxO_8lXyuffCt1OgG3u1iXCFj5cpz1EOuYRLiyU8mRsoqdYSQERjZODqLMVvbubK4AEarD-hgT4DV6hzy6VhrkXH4JaZoJ22pdgoYFQ-icfRR6IfMjIayC76h6nHQgYilps-EimOWEn4fKbT2-RwgMQaN0ZnggaU2kqmeFIFP5RvcgAA; domain=.login.loopback.modlishka.io; path=/; ; HttpOnly####x-ms-gateway-slice=prod; path=/; ; HttpOnly####stsservicecookie=ests; path=/; ; HttpOnly
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:50 WAT
+======
+RemoteIP: 127.0.0.1:60903
+======
+UUID: 
+======
+GET /login HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:52 WAT
+======
+RemoteIP: 127.0.0.1:60903
+======
+UUID: 
+======
+URL: https://www.office.com
+======
+OH.DCAffinity=OH-suk; path=/; secure; HttpOnly####OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=TDNTbi1ldE1fWk5sVVN4OTJjRy1lVDJtdExzb2ZTMjF6WVFDd0pjODZTMC1STkxoOEV5SWZFTFFyQndwVWVZRWxfcmo2U2s2T3N5ekV6RkpxbGROai1EcG5oOVJvUmdsRzN2VHVfVnhkUTJNd1g4bFk5Zkw0Z1ZOblZPVFJSeDRiOXVfV0MwdC1MVUgzMElqNVNkR3FWeTFlTTdOQWp3UlE1Y2lacDczT1Yyb2h0VzJwa0pJTThtRFdTWkp0cU9oS1V4OUdNc2VtVXNING45a195RVE3bjhVQS00SkF2ai1NUlRBcWJnVjhJckx1Y1IyOWpLN2pwTEJUR2FlVk1seA%3D%3D; path=/; secure; HttpOnly####OH.SID=24d0ce57-e4eb-4a7f-96b3-5437b40848e3; path=/; secure; HttpOnly####OH.DCAffinity=OH-suk; path=/; secure; HttpOnly####OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=TDNTbi1ldE1fWk5sVVN4OTJjRy1lVDJtdExzb2ZTMjF6WVFDd0pjODZTMC1STkxoOEV5SWZFTFFyQndwVWVZRWxfcmo2U2s2T3N5ekV6RkpxbGROai1EcG5oOVJvUmdsRzN2VHVfVnhkUTJNd1g4bFk5Zkw0Z1ZOblZPVFJSeDRiOXVfV0MwdC1MVUgzMElqNVNkR3FWeTFlTTdOQWp3UlE1Y2lacDczT1Yyb2h0VzJwa0pJTThtRFdTWkp0cU9oS1V4OUdNc2VtVXNING45a195RVE3bjhVQS00SkF2ai1NUlRBcWJnVjhJckx1Y1IyOWpLN2pwTEJUR2FlVk1seA%3D%3D; path=/; secure; HttpOnly####MUID=15F9D2381E9462F7272ADF841F9F6309; path=/; secure; expires=Fri, 11-Sep-2020 15:39:51 GMT; domain=office.com
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:52 WAT
+======
+RemoteIP: 127.0.0.1:60903
+======
+UUID: 
+======
+URL: https://www.office.com
+======
+OH.DCAffinity=OH-suk; path=/; ; HttpOnly####OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=TDNTbi1ldE1fWk5sVVN4OTJjRy1lVDJtdExzb2ZTMjF6WVFDd0pjODZTMC1STkxoOEV5SWZFTFFyQndwVWVZRWxfcmo2U2s2T3N5ekV6RkpxbGROai1EcG5oOVJvUmdsRzN2VHVfVnhkUTJNd1g4bFk5Zkw0Z1ZOblZPVFJSeDRiOXVfV0MwdC1MVUgzMElqNVNkR3FWeTFlTTdOQWp3UlE1Y2lacDczT1Yyb2h0VzJwa0pJTThtRFdTWkp0cU9oS1V4OUdNc2VtVXNING45a195RVE3bjhVQS00SkF2ai1NUlRBcWJnVjhJckx1Y1IyOWpLN2pwTEJUR2FlVk1seA%3D%3D; path=/; ; HttpOnly####OH.SID=24d0ce57-e4eb-4a7f-96b3-5437b40848e3; path=/; ; HttpOnly####OH.DCAffinity=OH-suk; path=/; ; HttpOnly####OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=TDNTbi1ldE1fWk5sVVN4OTJjRy1lVDJtdExzb2ZTMjF6WVFDd0pjODZTMC1STkxoOEV5SWZFTFFyQndwVWVZRWxfcmo2U2s2T3N5ekV6RkpxbGROai1EcG5oOVJvUmdsRzN2VHVfVnhkUTJNd1g4bFk5Zkw0Z1ZOblZPVFJSeDRiOXVfV0MwdC1MVUgzMElqNVNkR3FWeTFlTTdOQWp3UlE1Y2lacDczT1Yyb2h0VzJwa0pJTThtRFdTWkp0cU9oS1V4OUdNc2VtVXNING45a195RVE3bjhVQS00SkF2ai1NUlRBcWJnVjhJckx1Y1IyOWpLN2pwTEJUR2FlVk1seA%3D%3D; path=/; ; HttpOnly####MUID=15F9D2381E9462F7272ADF841F9F6309; path=/; ; expires=Fri, 11-Sep-2020 15:39:51 GMT; domain=5t3cg9e3.loopback.modlishka.io
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:52 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+GET /common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dtpziZbvO5_TRj9K6aLfkAT2FGAb2MKBV1hUday6w6lYAkNdNjWtKhTviqbYPhSnEiNWOk-lE99RFcLsO8IuDvkMxQZE7YbOvQlWx_Xy1FQRc7Yb5eOw0wfCXCUSYSVWQ&nonce=637017395919440989.YmFhMjUzMTUtYjkwYy00YzkxLWJhZGEtYmIyYjNmNGMzM2MzNWQzMmI2YzgtMzFlMS00NjhiLWI1NzMtZmIzNzQ0MmM3ZjM1&redirect_uri=https%3a%2f%2fwww.office.com%2f&ui_locales=en-US&mkt=en-US HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; fpc=AipSxGP1k65DkHdfxtOQzFs; esctx=AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxO_8lXyuffCt1OgG3u1iXCFj5cpz1EOuYRLiyU8mRsoqdYSQERjZODqLMVvbubK4AEarD-hgT4DV6hzy6VhrkXH4JaZoJ22pdgoYFQ-icfRR6IfMjIayC76h6nHQgYilps-EimOWEn4fKbT2-RwgMQaN0ZnggaU2kqmeFIFP5RvcgAA; x-ms-gateway-slice=prod; stsservicecookie=ests
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:53 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxE9zXI2lzbW9hBLqocWjlW5mul9bOD8Wtdp7oKJmZUBFE-dCqdUXG5bK5LAtXue8a1akVYnp1b65oNsBbFgsaAPItw9p2HXNQqVNltnYuIlQgAA; expires=Tue, 17-Sep-2019 15:39:53 GMT; path=/; secure; HttpOnly####fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:39:53 GMT; path=/; secure; HttpOnly####x-ms-gateway-slice=prod; path=/; secure; HttpOnly####stsservicecookie=ests; path=/; secure; HttpOnly
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:53 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxE9zXI2lzbW9hBLqocWjlW5mul9bOD8Wtdp7oKJmZUBFE-dCqdUXG5bK5LAtXue8a1akVYnp1b65oNsBbFgsaAPItw9p2HXNQqVNltnYuIlQgAA; expires=Tue, 17-Sep-2019 15:39:53 GMT; path=/; ; HttpOnly####fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:39:53 GMT; path=/; ; HttpOnly####x-ms-gateway-slice=prod; path=/; ; HttpOnly####stsservicecookie=ests; path=/; ; HttpOnly
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:54 WAT
+======
+RemoteIP: 127.0.0.1:60926
+======
+UUID: 
+======
+GET /ests/2.1/content/cdnbundles/converged.v2.login.min_yauhz6hbxojfs4ida6n8aq2.css HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Dnt: 1
+Origin: https://login.microsoftonline.com
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:54 WAT
+======
+RemoteIP: 127.0.0.1:60927
+======
+UUID: 
+======
+GET /ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_rhxg2_8lvl221-rpvrjriw2.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Dnt: 1
+Origin: https://login.microsoftonline.com
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:54 WAT
+======
+RemoteIP: 127.0.0.1:60925
+======
+UUID: 
+======
+GET /ests/2.1/content/cdnbundles/ux.converged.login.pcore.min_qs5vev6kccg0pxrilnbyfg2.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Dnt: 1
+Origin: https://login.microsoftonline.com
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:55 WAT
+======
+RemoteIP: 127.0.0.1:60927
+======
+UUID: 
+======
+URL: https://aadcdn.msftauth.net
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:57 WAT
+======
+RemoteIP: 127.0.0.1:60925
+======
+UUID: 
+======
+URL: https://aadcdn.msftauth.net
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:57 WAT
+======
+RemoteIP: 127.0.0.1:60943
+======
+UUID: 
+======
+GET /ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:57 WAT
+======
+RemoteIP: 127.0.0.1:60945
+======
+UUID: 
+======
+GET /ests/2.1/content/images/microsoft_logo_ee5c8d9fb6248c938fd0dc19370e90bd.svg HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:57 WAT
+======
+RemoteIP: 127.0.0.1:60947
+======
+UUID: 
+======
+GET /ests/2.1/content/images/ellipsis_white_5ac590ee72bfe06a7cecfd75b588ad73.svg HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:57 WAT
+======
+RemoteIP: 127.0.0.1:60903
+======
+UUID: 
+======
+GET /prefetch/prefetch HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; OH.DCAffinity=OH-suk; OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=TDNTbi1ldE1fWk5sVVN4OTJjRy1lVDJtdExzb2ZTMjF6WVFDd0pjODZTMC1STkxoOEV5SWZFTFFyQndwVWVZRWxfcmo2U2s2T3N5ekV6RkpxbGROai1EcG5oOVJvUmdsRzN2VHVfVnhkUTJNd1g4bFk5Zkw0Z1ZOblZPVFJSeDRiOXVfV0MwdC1MVUgzMElqNVNkR3FWeTFlTTdOQWp3UlE1Y2lacDczT1Yyb2h0VzJwa0pJTThtRFdTWkp0cU9oS1V4OUdNc2VtVXNING45a195RVE3bjhVQS00SkF2ai1NUlRBcWJnVjhJckx1Y1IyOWpLN2pwTEJUR2FlVk1seA%3D%3D; OH.SID=24d0ce57-e4eb-4a7f-96b3-5437b40848e3
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:57 WAT
+======
+RemoteIP: 127.0.0.1:60948
+======
+UUID: 
+======
+GET /ests/2.1/content/images/ellipsis_grey_2b5d393db04a5e6e1f739cb266e65b4c.svg HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:57 WAT
+======
+RemoteIP: 127.0.0.1:60956
+======
+UUID: 
+======
+GET /ests/2.1/content/images/backgrounds/0-small_138bcee624fa04ef9b75e86211a9fe0d.jpg HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:57 WAT
+======
+RemoteIP: 127.0.0.1:60957
+======
+UUID: 
+======
+GET /ests/2.1/content/images/backgrounds/0_a5dbd4393ff6a725c7e62b61df7e72f0.jpg HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:58 WAT
+======
+RemoteIP: 127.0.0.1:60903
+======
+UUID: 
+======
+URL: https://www.office.com
+======
+p.UnAuthUserCookie=59aba285-54c4-451c-a7d1-01cb20b94e57; expires=Tue, 18-Aug-2020 15:39:58 GMT; path=/; secure; HttpOnly####MUID=00B05013CB736D1707DC5DAFCA786C09; path=/; secure; expires=Fri, 11-Sep-2020 15:39:58 GMT; domain=office.com
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:39:58 WAT
+======
+RemoteIP: 127.0.0.1:60903
+======
+UUID: 
+======
+URL: https://www.office.com
+======
+p.UnAuthUserCookie=59aba285-54c4-451c-a7d1-01cb20b94e57; expires=Tue, 18-Aug-2020 15:39:58 GMT; path=/; ; HttpOnly####MUID=00B05013CB736D1707DC5DAFCA786C09; path=/; ; expires=Fri, 11-Sep-2020 15:39:58 GMT; domain=5t3cg9e3.loopback.modlishka.io
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:59 WAT
+======
+RemoteIP: 127.0.0.1:60967
+======
+UUID: 
+======
+GET /share HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:59 WAT
+======
+RemoteIP: 127.0.0.1:60966
+======
+UUID: 
+======
+GET /bundles/staticstyles-97f0fee097.css HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Dnt: 1
+Origin: https://www.office.com
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:59 WAT
+======
+RemoteIP: 127.0.0.1:60965
+======
+UUID: 
+======
+GET /bundles/sharedfontstyles-30d1fc43fd.css HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Dnt: 1
+Origin: https://www.office.com
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:39:59 WAT
+======
+RemoteIP: 127.0.0.1:60964
+======
+UUID: 
+======
+GET /owa/prefetch.aspx HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:01 WAT
+======
+RemoteIP: 127.0.0.1:60964
+======
+UUID: 
+======
+URL: https://outlook.office365.com
+======
+ClientId=CDFEDC3BD4E142F7AF171D9CE4D0139B; expires=Tue, 18-Aug-2020 15:40:01 GMT; path=/; secure####ClientId=CDFEDC3BD4E142F7AF171D9CE4D0139B; expires=Tue, 18-Aug-2020 15:40:01 GMT; path=/; secure####OIDC=1; expires=Tue, 18-Feb-2020 15:40:01 GMT; path=/; secure; HttpOnly####OWAPF=v:16.3216.1.2706983&l:mouse; path=/
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:01 WAT
+======
+RemoteIP: 127.0.0.1:60964
+======
+UUID: 
+======
+URL: https://outlook.office365.com
+======
+ClientId=CDFEDC3BD4E142F7AF171D9CE4D0139B; expires=Tue, 18-Aug-2020 15:40:01 GMT; path=/; ####ClientId=CDFEDC3BD4E142F7AF171D9CE4D0139B; expires=Tue, 18-Aug-2020 15:40:01 GMT; path=/; ####OIDC=1; expires=Tue, 18-Feb-2020 15:40:01 GMT; path=/; ; HttpOnly####OWAPF=v:16.3216.1.2706983&l:mouse; path=/
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:02 WAT
+======
+RemoteIP: 127.0.0.1:60967
+======
+UUID: 
+======
+URL: https://www.odwebp.svc.ms
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:02 WAT
+======
+RemoteIP: 127.0.0.1:60993
+======
+UUID: 
+======
+GET /bundles/sharedscripts-3b5e8eac10.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:02 WAT
+======
+RemoteIP: 127.0.0.1:60992
+======
+UUID: 
+======
+GET /bundles/polyfills-bundle-9d4fa01e5693fe3fde73.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:02 WAT
+======
+RemoteIP: 127.0.0.1:60994
+======
+UUID: 
+======
+GET /bundles/app-bundle-5508d93ae69fc78ffca4.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:02 WAT
+======
+RemoteIP: 127.0.0.1:60995
+======
+UUID: 
+======
+GET /bundles/staticscripts-467ed55bf8.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:02 WAT
+======
+RemoteIP: 127.0.0.1:60996
+======
+UUID: 
+======
+GET /bundles/app-bundle-9d84da0d06998efb9708.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:02 WAT
+======
+RemoteIP: 127.0.0.1:60997
+======
+UUID: 
+======
+GET /bundles/react-bundle-bde6354f8166307d5520.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:61005
+======
+UUID: 
+======
+GET /files/odsp-next-prod_2019-08-02_20190814.002/en-us/odbshare.resx-221f7b06.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.odwebp.svc.ms/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:61008
+======
+UUID: 
+======
+GET /files/odsp-next-prod_2019-08-02_20190814.002/odbshare-7a18d6f7.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.odwebp.svc.ms/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:61006
+======
+UUID: 
+======
+GET /files/odsp-next-prod_2019-08-02_20190814.002/react-b85db8d1.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.odwebp.svc.ms/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:61007
+======
+UUID: 
+======
+GET /files/odsp-next-prod_2019-08-02_20190814.002/knockout-58619ac6.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.odwebp.svc.ms/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+GET /owa/prem/16.3216.1.2706983/scripts/boot.worldwide.0.mouse.js HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://outlook.office365.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:60993
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:60993
+======
+UUID: 
+======
+GET /images/content/images/favicons/favicon-word-cf3b70d2be.ico HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:60992
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:03 WAT
+======
+RemoteIP: 127.0.0.1:60992
+======
+UUID: 
+======
+GET /images/content/images/favicons/favicon-excel-4a1b502024.ico HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:04 WAT
+======
+RemoteIP: 127.0.0.1:60997
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:04 WAT
+======
+RemoteIP: 127.0.0.1:60997
+======
+UUID: 
+======
+GET /images/content/images/favicons/favicon-powerpoint-c43401e5bd.ico HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:04 WAT
+======
+RemoteIP: 127.0.0.1:60995
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:04 WAT
+======
+RemoteIP: 127.0.0.1:60995
+======
+UUID: 
+======
+GET /images/content/images/favicons/favicon-sway-234c04e8a7.ico HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:04 WAT
+======
+RemoteIP: 127.0.0.1:61005
+======
+UUID: 
+======
+URL: https://spoprod-a.akamaihd.net
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:04 WAT
+======
+RemoteIP: 127.0.0.1:61007
+======
+UUID: 
+======
+URL: https://spoprod-a.akamaihd.net
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:04 WAT
+======
+RemoteIP: 127.0.0.1:61006
+======
+UUID: 
+======
+URL: https://spoprod-a.akamaihd.net
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:05 WAT
+======
+RemoteIP: 127.0.0.1:60996
+======
+UUID: 
+======
+GET /images/content/images/fluent-background-sources/header-default-desktop-652cc04392.svg HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:06 WAT
+======
+RemoteIP: 127.0.0.1:60994
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:06 WAT
+======
+RemoteIP: 127.0.0.1:60994
+======
+UUID: 
+======
+GET /images/content/images/document-sprite-f8cd18cf2a.png HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:06 WAT
+======
+RemoteIP: 127.0.0.1:60993
+======
+UUID: 
+======
+GET /images/content/images/zero-docs-sprite-14795e957f.png HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:06 WAT
+======
+RemoteIP: 127.0.0.1:60992
+======
+UUID: 
+======
+GET /versionless/startpages/wordtheme.min.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:07 WAT
+======
+RemoteIP: 127.0.0.1:60997
+======
+UUID: 
+======
+GET /versionless/startpages/exceltheme.min.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:07 WAT
+======
+RemoteIP: 127.0.0.1:60995
+======
+UUID: 
+======
+GET /versionless/startpages/powerpointtheme.min.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:07 WAT
+======
+RemoteIP: 127.0.0.1:60996
+======
+UUID: 
+======
+GET /versionless/startpages/swaytheme.min.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:08 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+URL: https://r4.res.office365.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:08 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+GET /owa/prem/16.3216.1.2706983/scripts/boot.worldwide.1.mouse.js HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://outlook.office365.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:09 WAT
+======
+RemoteIP: 127.0.0.1:60992
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:09 WAT
+======
+RemoteIP: 127.0.0.1:60997
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:09 WAT
+======
+RemoteIP: 127.0.0.1:60995
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:09 WAT
+======
+RemoteIP: 127.0.0.1:60996
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:10 WAT
+======
+RemoteIP: 127.0.0.1:61008
+======
+UUID: 
+======
+URL: https://spoprod-a.akamaihd.net
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:10 WAT
+======
+RemoteIP: 127.0.0.1:61008
+======
+UUID: 
+======
+GET /files/odsp-next-prod_2019-08-02_20190814.002/aria-bfcb437b.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.odwebp.svc.ms/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:11 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+URL: https://r4.res.office365.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:11 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+GET /owa/prem/16.3216.1.2706983/scripts/boot.worldwide.2.mouse.js HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://outlook.office365.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:11 WAT
+======
+RemoteIP: 127.0.0.1:61008
+======
+UUID: 
+======
+URL: https://spoprod-a.akamaihd.net
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:12 WAT
+======
+RemoteIP: 127.0.0.1:61066
+======
+UUID: 
+======
+POST /Collector/3.0/?qsp=true&content-type=application%2Fbond-compact-binary&client-id=NO_AUTH&sdk-version=ACT-Web-JS-2.9.0&x-apikey=af7114704a204580909f08c904c5ac6f-6f6f4c13-294c-4a00-8e55-71180ed7d627-7044 HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Content-Length: 2718
+Dnt: 1
+Origin: https://www.odwebp.svc.ms
+Referer: https://www.odwebp.svc.ms/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
++
+IJS_default_source©$40f4b285-9449-06e1-0a5f-c1aa62709c05—∞∏ñ÷î[À
+)$75ec042d-678c-f58f-6c00-cc7a107fa450q™∏ñ÷î[©custom…ev_pageinitÕ		*EventInfo.SourceJS_default_sourceEventInfo.InitId$2246c4af-a61b-ebf8-70c3-013910ca2e27EventInfo.Sequence1EventInfo.Nameev_pageinitEventInfo.Time2019-08-18T15:40:11.669ZEventInfo.SdkVersionACT-Web-JS-2.9.0AppInfo.Languageen-usUserInfo.Languageen-USUserInfo.TimeZone+0-1:00DeviceInfo.BrowserNameFirefoxDeviceInfo.BrowserVersion68.0DeviceInfo.OsNameMac OS XDeviceInfo.OsVersion10AppInfo.Version&odsp-next-prod_2019-08-02_20190814.002UserInfo.Id$ad18609f-c958-47c6-9935-688649fe6d00UserInfo.IdType AppInfo.Session$b3a652d7-ee03-4e98-b48f-7671156dd4bbAppInfo.Manifest
+2019-08-02AccountTypeBusinessAnonymousBrowserIsMobilefalseBrowserMajVer68BrowserMinVer0BrowserNameFirefoxBrowserUserAgentRMozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0EnvironmentprodIsAuthenticated0SiteSubscriptionId WorkloadODBCorrelationVectorn00000000-0000-0000-0000-000000000000#811771e8-a6ed-4500-b147-446667ae1c82#b7e07269-1347-4d9e-9041-a46bc8647d21ValidationErrors0WebLog_FullName	PageInit,WebLog_EventTypeSingleWebLog_Type_PageInit1PageInit_screenWidth1440PageInit_screenHeight835PageInit_availableScreenWidth1440PageInit_availableScreenHeight835PageInit_renderWidth0PageInit_renderHeight0PageInit_browserWidth2712PageInit_browserHeight1570PageInit_devicePixelRatio1 )$bfe1f68e-881b-2a74-1ff8-e917de9bb68cqÆ∏ñ÷î[©custom…ev_qoeÕ		$EventInfo.SourceJS_default_sourceEventInfo.InitId$2246c4af-a61b-ebf8-70c3-013910ca2e27EventInfo.Sequence2EventInfo.Nameev_qoeEventInfo.Time2019-08-18T15:40:11.671ZEventInfo.SdkVersionACT-Web-JS-2.9.0AppInfo.Languageen-usUserInfo.Languageen-USUserInfo.TimeZone+0-1:00DeviceInfo.BrowserNameFirefoxDeviceInfo.BrowserVersion68.0DeviceInfo.OsNameMac OS XDeviceInfo.OsVersion10AppInfo.Version&odsp-next-prod_2019-08-02_20190814.002UserInfo.Id$ad18609f-c958-47c6-9935-688649fe6d00UserInfo.IdType AppInfo.Session$b3a652d7-ee03-4e98-b48f-7671156dd4bbAppInfo.Manifest
+2019-08-02AccountTypeBusinessAnonymousBrowserIsMobilefalseBrowserMajVer68BrowserMinVer0BrowserNameFirefoxBrowserUserAgentRMozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0EnvironmentprodIsAuthenticated0SiteSubscriptionId WorkloadODBCorrelationVectorn00000000-0000-0000-0000-000000000000#811771e8-a6ed-4500-b147-446667ae1c82#5dc3c1ec-bf73-43a2-ada3-0bd1e2ec2eb5ValidationErrors0WebLog_FullNameQoe,WebLog_EventTypeSingleWebLog_Type_Qoe1	Qoe_stageAppLoadQoe_errorBeforeStagefalseQoe_errorDuringStagefalse   
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:13 WAT
+======
+RemoteIP: 127.0.0.1:61066
+======
+UUID: 
+======
+URL: https://browser.pipe.aria.microsoft.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:13 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+URL: https://r4.res.office365.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:13 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+GET /owa/prem/16.3216.1.2706983/scripts/boot.worldwide.3.mouse.js HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://outlook.office365.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:16 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+URL: https://r4.res.office365.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:16 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+GET /owa/prem/16.3216.1.2706983/resources/images/0/sprite1.mouse.png HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://outlook.office365.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:17 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+GET /owa/prem/16.3216.1.2706983/resources/images/0/sprite1.mouse.css HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://outlook.office365.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:18 WAT
+======
+RemoteIP: 127.0.0.1:60957
+======
+UUID: 
+======
+GET /ests/2.1/content/images/credentialoptions/cred_option_github_a7c769e31a628e643841187d20e149e3.svg HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:18 WAT
+======
+RemoteIP: 127.0.0.1:60943
+======
+UUID: 
+======
+GET /ests/2.1/content/images/documentation_bcb4d1dc4eae64f0b2b2538209d8435a.svg HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:19 WAT
+======
+RemoteIP: 127.0.0.1:61004
+======
+UUID: 
+======
+GET /owa/prem/16.3216.1.2706983/resources/styles/0/boot.worldwide.mouse.css HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://outlook.office365.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:42 WAT
+======
+RemoteIP: 127.0.0.1:60957
+======
+UUID: 
+======
+GET /ests/2.1/content/images/marching_ants_white_166de53471265253ab3a456defe6da23.gif HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:42 WAT
+======
+RemoteIP: 127.0.0.1:60943
+======
+UUID: 
+======
+GET /ests/2.1/content/images/marching_ants_b540a8e518037192e32c4fe58bf2dbab.gif HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:43 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+POST /common/GetCredentialType?mkt=en-US HTTP/1.1
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Canary: AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxlISWJoEKqsC6tFtKqGKlP8Powmr3H0h7nDCrVw_UkiVMpLRXMnvZ7S_VUGBS6aw090xkOx80xWZpcbBg5UXfGoIxH1LGQexvsG7GYb2kp-NjIocGoLp4WAUNquIdka34v3B7B0rKwfN9z82w4JE0VCmxKKzvcUOPHHis0zQSv7YVn1774xq9UghZe7qCL1J_EpCK4RHuqh78nITjo2AP-CAA
+Client-Request-Id: 9b6330fb-7e54-4f99-aacf-049197e1aeda
+Connection: keep-alive
+Content-Length: 1457
+Content-Type: application/json; charset=utf-8
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; esctx=AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxO_8lXyuffCt1OgG3u1iXCFj5cpz1EOuYRLiyU8mRsoqdYSQERjZODqLMVvbubK4AEarD-hgT4DV6hzy6VhrkXH4JaZoJ22pdgoYFQ-icfRR6IfMjIayC76h6nHQgYilps-EimOWEn4fKbT2-RwgMQaN0ZnggaU2kqmeFIFP5RvcgAA; x-ms-gateway-slice=prod; stsservicecookie=ests; buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxE9zXI2lzbW9hBLqocWjlW5mul9bOD8Wtdp7oKJmZUBFE-dCqdUXG5bK5LAtXue8a1akVYnp1b65oNsBbFgsaAPItw9p2HXNQqVNltnYuIlQgAA
+Dnt: 1
+Hpgact: 1800
+Hpgid: 1104
+Hpgrequestid: 8cf984c9-c6e7-4f6b-b0e9-cdae57515700
+Referer: https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dtpziZbvO5_TRj9K6aLfkAT2FGAb2MKBV1hUday6w6lYAkNdNjWtKhTviqbYPhSnEiNWOk-lE99RFcLsO8IuDvkMxQZE7YbOvQlWx_Xy1FQRc7Yb5eOw0wfCXCUSYSVWQ&nonce=637017395919440989.YmFhMjUzMTUtYjkwYy00YzkxLWJhZGEtYmIyYjNmNGMzM2MzNWQzMmI2YzgtMzFlMS00NjhiLWI1NzMtZmIzNzQ0MmM3ZjM1&redirect_uri=https%3a%2f%2fwww.office.com%2f&ui_locales=en-US&mkt=en-US
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+{"username":"myfishertest@outlook.com","isOtherIdpSupported":true,"checkPhones":false,"isRemoteNGCSupported":true,"isCookieBannerShown":false,"isFidoSupported":false,"originalRequest":"rQIIAXWRO2_TUACF67xQGQCxsDIwISW5fsTOjdQhpEnI49p1HnWdpfIzfjt1buPkDkwMDAxlQpSNBSlDhZgQPwCJSojO3Zh4TIgJxEL6A1jOcHSGT-e7n6VLdO0ex3IVTdBhEWo8W-QgDYoax_BFtsLyLANoswLY5Pb1W3-B8XL06IW0_px79vzL2eWauuNgPJvXyuU0TUuxbbuGVTLisPyOoi4o6htFnWbyVlQcD9eZOc8KgBZYWIE05DgAq7Ckhi0HeWOCRmOsen6qrgBQib_sK11n0m5iNeysVE8MxTYiiEFEVGSCwg6jkilGpBWgIQCi57h9pUOLBOFJ2CEikQEKETvxEH2ZuSnVj7HDXEWcuMT6ldm24yQ8nMVzfJp9TUkzK-qYjTiKLAOXrmZWhF1Dw24c7SXxzEqwa8138Iy4E30hVQ5HAw_2eK1v-_UR02rXdQb1HuzTztjUVnzKB2rdF03RU3DPGS3cI13dc4ZR0xUVyS8GTQgHLaM_l6qd492Fj5bypCmourSQA2V5eLCiW_LA2BQVS0pBajcOGuOhOtxX5LfZwubWMI7Oszc2UJFr3p0lse0G1kWO-pHLgPzvHPUqv3H08fGfp18_-NKb75_OFFnZOs-Xq7s61gJoTpiuIAC3p9P-kc-YD7spmApTcZUsiV5F8rLLox22Rp8UqJNC4WeBenJt6_32_wz_Aw2","country":"NG","forceotclogin":false,"isExternalFederationDisallowed":false,"isRemoteConnectSupported":false,"federationFlags":0,"flowToken":"AQABAAEAAAAP0wLlqdLVToOpA4kwzSnx-e3nPzlBN1kP89lBZhT8kICaOMc7GPj5w5FWiF7A_NheNjUZ6fATtz0VJokatZ5dwYG70rQDbgI6zS7u0YFm9NiV7ZaCOllm4sMXYV_g45_Jz4TOOyYSL6DLK_V4YVM9x3Z4Htn-mi9rqfjnFBznR-Ju3H8ollw3_4peUMunsW091xSZvTui_6zUYRPwNaoqlj5MZof16xtqBlIC-UFoxO7on4e75uyHVkNeA7DnTQ6I6dH3gkSIptWzrLmqe6rDv9N5XiLLuEAhzn9XYGC1-Hcd-A6Rl9IWfsGwLlQyA8GFjRZdlLy9OPvTEW9uTSZdIhBFEkHWtG5pOcHe7Hin4R42AXGD18roet0BBQOPmUkxy7CxUSpjEikNEFXW8545IAA"}
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:44 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:40:44 GMT; path=/; secure; HttpOnly####x-ms-gateway-slice=prod; path=/; secure; HttpOnly####stsservicecookie=ests; path=/; secure; HttpOnly
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:44 WAT
+======
+RemoteIP: 127.0.0.1:60893
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:40:44 GMT; path=/; ; HttpOnly####x-ms-gateway-slice=prod; path=/; ; HttpOnly####stsservicecookie=ests; path=/; ; HttpOnly
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:44 WAT
+======
+RemoteIP: 127.0.0.1:61213
+======
+UUID: 
+======
+GET /oauth20_authorize.srf?response_type=code&client_id=51483342-085c-4d86-bf88-cf50c7252078&scope=openid+profile+email+offline_access&response_mode=form_post&redirect_uri=https%3a%2f%2flogin.microsoftonline.com%2fcommon%2ffederation%2foauth2&state=rQIIAXVSO2_TYACs80LtAAghsXZgQnLyfXZs54vUIbRJyeOz6yapay-RX6nfTp2vceKBiYGBoUyIsrEgdagQE-IHIFEJ0bkbE48JMYFYSNlZbri74XR39_KwDOt3q2yV0wUD0UjnWbqKIKD1KsPTLMfyLAOgxQE2ubV28w8wXwwePpdOPxWePvt8dnlCrY4Cd2aXzTg8pe44hEym9UolTdNyPB675j-h8paiLijqK0Wd5Ip2RA_7p7kpzwoACiziEETVKkA1VFbDloO9YYYHQ6J6fqouAFAzf95TOo623SRq2F6onhiK2zjDDM5ERc5w2GbU7IDgrBXgPgCi57g9pQ3FDBMtbGdiJgMcYlbzMLzM3ZAaR8RhriBO3Mz-mVsdx0k4msRTcpJ_RUkTO2pbm3EU2SYpX9nsiLimTtw42kniiZ0Q155ukEnmasZM4kaDXQ91eb039hsDprXdMBjcvb8HnaGlL_iUD9SGL1qip5CuM5i5h4a64_Sjpisqkk8HTYR2W2ZvKtXaR1szH89lrSmohjSTA2U-2l_AlrxrLgnOllKQjjf3N4d9tb-nyG_ypWWtYRyd568vQ0WutT5J4rEb2BcF6nshB4q_CtTL4nKvD49-P_ny3pdef_t4psjKynmxUtsyiB4gS2M6ggDcrgH9Q5-xHnRScCAciItknhk1LM87PN5g6_C4RB2XSj9K1ONrK-9W_7fw5drt5UsQDWo0rK1Drs6iOsdqfwE1&estsfed=1&uaid=9b6330fb7e544f99aacf049197e1aeda&fci=4345a7b9-9a63-4910-a426-35363201d503&mkt=en-US&username=myfishertest%40outlook.com HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:46 WAT
+======
+RemoteIP: 127.0.0.1:61213
+======
+UUID: 
+======
+URL: https://login.live.com
+======
+MSPRequ=lt=1566142846&co=1&id=N; secure= ;path=/;HTTPOnly=;version=1####uaid=9b6330fb7e544f99aacf049197e1aeda; domain=login.live.com;secure= ;path=/;HTTPOnly= ;version=1####MSCC=129.56.36.16-NG; expires=Fri, 11-Sep-2020 15:40:46 GMT;domain=login.live.com;secure= ;path=/;HTTPOnly= ;version=1####OParams=11DU05!fK4NBys972jgY5CFPWh*8DUD5ZDE4qNJ5A5tSmqpZYZZ9xA6hDK*0TZp8X336KngVjpMeF5wm6qUCfji5JjtYXLLV1Tova9moqdurKps8oHkPRqJVqf1NuGq!GDzsO16XtObfOFPqlMowm!WUvOiykDgQNT2M672cq7HpGnLO3q2n5egbpsGB0XTPuCkQ7btS6h*hRLL2KECgBnFavI5Ln6yLVimH45dKB9IomEFUaUI1PaSjSWnfD8GrivEq!plLeEGOOxZd1DXaq!Zs5tJpOGhXB9lQwFPMZZ6bMTXu!mP7*oeGABxIFKC*8QqoCMjHwCSTnBsHdRGYnBoRuzdmqe8ToG66EqjviGH*KiDjSz9CejPwyct!ZJCKXkz26ot8pSOOAyD*HbkPNhHiABIFfxhUjEwtEkw!0fIIMpHDOEIwcHO9NNjIbhoxJwtT!IweBsVAaQvMr7ZVdF*rVkXoYw1vU*ZAAnBeO3PRtEMgNei55KKeM6kKCPRFYKfjw6HbZOBNBTniODVMjznU*n7bZGoBoFVbL8blgAmCbQ!HI6Qafz9!SfMjPvtZexEs0OUakhg9EBCfxlFiFVqudkza0LqnDjDkPdNSLZleWTI0BuIg0Q8RvUBc*43uKkmHdKhQnw6BT8kGNx595*t4OG9jxF6XHtou360WdbV0BPgA52QzeWQzXSeCDiSxXdBppXhBrHcaEWqRNy1ZGoMH7ecEi9FDwUs*3a2fYwGsq5*VJ**pa!J2mpXwbE97jf0mZhFCofCE4TFSIHoUm8*IOKWgnZ1KExOouxzHJ4rECqhH1y39FokC61wPozlkwoBiUb13gkanmMLucIFh4hVTNoxez9t10NbCeKZUnvEizNy7pL4bu46Mterj4bQhwiXAoVChHdT3TcCJ07ZmzQ!3A6ZTzPDHYgpaQ!dyFoW8Ltpn00tl09wSepQYL0JIx3YBOgpjta3K0fcLxFHCbxh3lpG3MKXjGigFXiW!7c4!OxRdQvEnp7pgBp9W4I*TsF*B0oGcwtRH1V9ecR8qnDdIX3Aq0S9lyByznBXTOPEFpXC0CnboYRkP!quVpdnSsc9fps0UeKWJJV!TYqLrfPbBCo4YUmtjZE3Fu0B6XiGA5KbJEEKhfq0a535pq7O125!cO0ROHYQBxjvveoUv5XxAZSD1J8XYCp4KYi0xHKs*wW7BKEgv2Sm1fhAZRWlU!4Dw3hb!XkCnSmNZguwsSFiDAjS2Pz5NnWM0EFAohbLOTu4srthYLRqlmckAxfoIrGjTXN1JuFAgerj!yZ2v6WL0Xasn0uDshVKvoqwtR!e374djNF58YIISrKYiA7mxOXV!iqZDrLs4Z9XJIWZslk1jvZvt*KfSxH6MFREGArxH2GMscu3OubWKSpbC1FQUJF*0gXwfN4WFs2EyOI6qTNvZnBomf5GMjDxNutnaBGaaWIzfdm7SXB6ESCV0yWFfjmeMp5Gc8Bxqpaw0ykqLTAqEJ3zeBu*zXruqEztbHYSFuMV9kWMnjJ3E0C2aPMFW35Fz3mzGE4o2LR*lNuMmQECu*yXW!gud9GawljLmdb4*77; domain=login.live.com;secure= ;path=/;HTTPOnly= ;version=1####MSPOK=$uuid-5c727d76-537d-414f-bd7d-250340d7b925; domain=login.live.com;secure= ;path=/;HTTPOnly= ;version=1
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:46 WAT
+======
+RemoteIP: 127.0.0.1:61213
+======
+UUID: 
+======
+URL: https://login.live.com
+======
+MSPRequ=lt=1566142846&co=1&id=N; = ;path=/;HTTPOnly=;version=1####uaid=9b6330fb7e544f99aacf049197e1aeda; domain=7np70a2gfq540.loopback.modlishka.io;= ;path=/;HTTPOnly= ;version=1####MSCC=129.56.36.16-NG; expires=Fri, 11-Sep-2020 15:40:46 GMT;domain=7np70a2gfq540.loopback.modlishka.io;= ;path=/;HTTPOnly= ;version=1####OParams=11DU05!fK4NBys972jgY5CFPWh*8DUD5ZDE4qNJ5A5tSmqpZYZZ9xA6hDK*0TZp8X336KngVjpMeF5wm6qUCfji5JjtYXLLV1Tova9moqdurKps8oHkPRqJVqf1NuGq!GDzsO16XtObfOFPqlMowm!WUvOiykDgQNT2M672cq7HpGnLO3q2n5egbpsGB0XTPuCkQ7btS6h*hRLL2KECgBnFavI5Ln6yLVimH45dKB9IomEFUaUI1PaSjSWnfD8GrivEq!plLeEGOOxZd1DXaq!Zs5tJpOGhXB9lQwFPMZZ6bMTXu!mP7*oeGABxIFKC*8QqoCMjHwCSTnBsHdRGYnBoRuzdmqe8ToG66EqjviGH*KiDjSz9CejPwyct!ZJCKXkz26ot8pSOOAyD*HbkPNhHiABIFfxhUjEwtEkw!0fIIMpHDOEIwcHO9NNjIbhoxJwtT!IweBsVAaQvMr7ZVdF*rVkXoYw1vU*ZAAnBeO3PRtEMgNei55KKeM6kKCPRFYKfjw6HbZOBNBTniODVMjznU*n7bZGoBoFVbL8blgAmCbQ!HI6Qafz9!SfMjPvtZexEs0OUakhg9EBCfxlFiFVqudkza0LqnDjDkPdNSLZleWTI0BuIg0Q8RvUBc*43uKkmHdKhQnw6BT8kGNx595*t4OG9jxF6XHtou360WdbV0BPgA52QzeWQzXSeCDiSxXdBppXhBrHcaEWqRNy1ZGoMH7ecEi9FDwUs*3a2fYwGsq5*VJ**pa!J2mpXwbE97jf0mZhFCofCE4TFSIHoUm8*IOKWgnZ1KExOouxzHJ4rECqhH1y39FokC61wPozlkwoBiUb13gkanmMLucIFh4hVTNoxez9t10NbCeKZUnvEizNy7pL4bu46Mterj4bQhwiXAoVChHdT3TcCJ07ZmzQ!3A6ZTzPDHYgpaQ!dyFoW8Ltpn00tl09wSepQYL0JIx3YBOgpjta3K0fcLxFHCbxh3lpG3MKXjGigFXiW!7c4!OxRdQvEnp7pgBp9W4I*TsF*B0oGcwtRH1V9ecR8qnDdIX3Aq0S9lyByznBXTOPEFpXC0CnboYRkP!quVpdnSsc9fps0UeKWJJV!TYqLrfPbBCo4YUmtjZE3Fu0B6XiGA5KbJEEKhfq0a535pq7O125!cO0ROHYQBxjvveoUv5XxAZSD1J8XYCp4KYi0xHKs*wW7BKEgv2Sm1fhAZRWlU!4Dw3hb!XkCnSmNZguwsSFiDAjS2Pz5NnWM0EFAohbLOTu4srthYLRqlmckAxfoIrGjTXN1JuFAgerj!yZ2v6WL0Xasn0uDshVKvoqwtR!e374djNF58YIISrKYiA7mxOXV!iqZDrLs4Z9XJIWZslk1jvZvt*KfSxH6MFREGArxH2GMscu3OubWKSpbC1FQUJF*0gXwfN4WFs2EyOI6qTNvZnBomf5GMjDxNutnaBGaaWIzfdm7SXB6ESCV0yWFfjmeMp5Gc8Bxqpaw0ykqLTAqEJ3zeBu*zXruqEztbHYSFuMV9kWMnjJ3E0C2aPMFW35Fz3mzGE4o2LR*lNuMmQECu*yXW!gud9GawljLmdb4*77; domain=7np70a2gfq540.loopback.modlishka.io;= ;path=/;HTTPOnly= ;version=1####MSPOK=$uuid-5c727d76-537d-414f-bd7d-250340d7b925; domain=7np70a2gfq540.loopback.modlishka.io;= ;path=/;HTTPOnly= ;version=1
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:46 WAT
+======
+RemoteIP: 127.0.0.1:61223
+======
+UUID: 
+======
+GET /16.000.28283.1/Converged_v21033.css HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Dnt: 1
+Origin: https://login.live.com
+Referer: https://login.live.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:47 WAT
+======
+RemoteIP: 127.0.0.1:61223
+======
+UUID: 
+======
+GET /16.000.28283.1/ConvergedLoginPaginatedStrings.en.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Dnt: 1
+Origin: https://login.live.com
+Referer: https://login.live.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:47 WAT
+======
+RemoteIP: 127.0.0.1:61230
+======
+UUID: 
+======
+GET /16.000.28283.1/images/favicon.ico HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:48 WAT
+======
+RemoteIP: 127.0.0.1:61223
+======
+UUID: 
+======
+URL: https://logincdn.msauth.net
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:48 WAT
+======
+RemoteIP: 127.0.0.1:61223
+======
+UUID: 
+======
+GET /16.000.28283.1/ConvergedLogin_PCore.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Dnt: 1
+Origin: https://login.live.com
+Referer: https://login.live.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:40:50 WAT
+======
+RemoteIP: 127.0.0.1:61223
+======
+UUID: 
+======
+URL: https://logincdn.msauth.net
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:50 WAT
+======
+RemoteIP: 127.0.0.1:61230
+======
+UUID: 
+======
+GET /16.000.28283.1/images/microsoft_logo.svg?x=ee5c8d9fb6248c938fd0dc19370e90bd HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.live.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:50 WAT
+======
+RemoteIP: 127.0.0.1:61242
+======
+UUID: 
+======
+GET /16.000.28283.1/images/ellipsis_white.svg?x=5ac590ee72bfe06a7cecfd75b588ad73 HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.live.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:50 WAT
+======
+RemoteIP: 127.0.0.1:61243
+======
+UUID: 
+======
+GET /16.000.28283.1/images/ellipsis_grey.svg?x=2b5d393db04a5e6e1f739cb266e65b4c HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.live.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:50 WAT
+======
+RemoteIP: 127.0.0.1:61247
+======
+UUID: 
+======
+GET /16.000.28283.1/images/Backgrounds/0.jpg?x=a5dbd4393ff6a725c7e62b61df7e72f0 HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.live.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:40:50 WAT
+======
+RemoteIP: 127.0.0.1:61246
+======
+UUID: 
+======
+GET /16.000.28283.1/images/Backgrounds/0-small.jpg?x=138bcee624fa04ef9b75e86211a9fe0d HTTP/1.1
+Accept: image/webp,*/*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://login.live.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:24 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; esctx=AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxO_8lXyuffCt1OgG3u1iXCFj5cpz1EOuYRLiyU8mRsoqdYSQERjZODqLMVvbubK4AEarD-hgT4DV6hzy6VhrkXH4JaZoJ22pdgoYFQ-icfRR6IfMjIayC76h6nHQgYilps-EimOWEn4fKbT2-RwgMQaN0ZnggaU2kqmeFIFP5RvcgAA; x-ms-gateway-slice=prod; stsservicecookie=ests; buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxE9zXI2lzbW9hBLqocWjlW5mul9bOD8Wtdp7oKJmZUBFE-dCqdUXG5bK5LAtXue8a1akVYnp1b65oNsBbFgsaAPItw9p2HXNQqVNltnYuIlQgAA
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:25 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:43:24 GMT; path=/; secure; HttpOnly####x-ms-gateway-slice=prod; path=/; secure; HttpOnly####stsservicecookie=ests; path=/; secure; HttpOnly
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:25 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:43:24 GMT; path=/; ; HttpOnly####x-ms-gateway-slice=prod; path=/; ; HttpOnly####stsservicecookie=ests; path=/; ; HttpOnly
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:25 WAT
+======
+RemoteIP: 127.0.0.1:61876
+======
+UUID: 
+======
+GET /login HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; OH.DCAffinity=OH-suk; OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=TDNTbi1ldE1fWk5sVVN4OTJjRy1lVDJtdExzb2ZTMjF6WVFDd0pjODZTMC1STkxoOEV5SWZFTFFyQndwVWVZRWxfcmo2U2s2T3N5ekV6RkpxbGROai1EcG5oOVJvUmdsRzN2VHVfVnhkUTJNd1g4bFk5Zkw0Z1ZOblZPVFJSeDRiOXVfV0MwdC1MVUgzMElqNVNkR3FWeTFlTTdOQWp3UlE1Y2lacDczT1Yyb2h0VzJwa0pJTThtRFdTWkp0cU9oS1V4OUdNc2VtVXNING45a195RVE3bjhVQS00SkF2ai1NUlRBcWJnVjhJckx1Y1IyOWpLN2pwTEJUR2FlVk1seA%3D%3D; OH.SID=24d0ce57-e4eb-4a7f-96b3-5437b40848e3; p.UnAuthUserCookie=59aba285-54c4-451c-a7d1-01cb20b94e57
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:27 WAT
+======
+RemoteIP: 127.0.0.1:61876
+======
+UUID: 
+======
+URL: https://www.office.com
+======
+OpenIdConnect.nonce.mT6ar%2ByYj3UEA4CUjMd%2Fee3tcN5eTNZzLhsc4ITL0TY%3D=eUJ5Wk5FM3Q4Qmt1T2h0VGg2QTJUQ3M4XzB4anIwNGR4VUlUQXNNQlhWS3pwdGtXOTVYQVpEaGdWY1lpc3IwWDNKTDNjNWRBU0RtZWx5eWJOUzV6R2JPa2FwcnFQc0xsMnF2TVJibnpQWkVfT1BaUUN5RkpJWEpIRWZQOGpPMDMzTlZKbHo1V0psZ05vVEQ4Zm5OVGZ6eDVPOHFNbnBKYW5PQ1RKQndyajczMW4tNUxHS2NXTWNBREZDSTlCTlB5dUVvejNSc01yMVJhTmRFX2RmeGlhZHpTX0dOaHF5eUR1QlNudjA0eklUWFJReFBFUjJoc0pubEtzS18tVDJOcg%3D%3D; path=/; secure; HttpOnly####OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT####OpenIdConnect.nonce.mT6ar%2ByYj3UEA4CUjMd%2Fee3tcN5eTNZzLhsc4ITL0TY%3D=eUJ5Wk5FM3Q4Qmt1T2h0VGg2QTJUQ3M4XzB4anIwNGR4VUlUQXNNQlhWS3pwdGtXOTVYQVpEaGdWY1lpc3IwWDNKTDNjNWRBU0RtZWx5eWJOUzV6R2JPa2FwcnFQc0xsMnF2TVJibnpQWkVfT1BaUUN5RkpJWEpIRWZQOGpPMDMzTlZKbHo1V0psZ05vVEQ4Zm5OVGZ6eDVPOHFNbnBKYW5PQ1RKQndyajczMW4tNUxHS2NXTWNBREZDSTlCTlB5dUVvejNSc01yMVJhTmRFX2RmeGlhZHpTX0dOaHF5eUR1QlNudjA0eklUWFJReFBFUjJoc0pubEtzS18tVDJOcg%3D%3D; path=/; secure; HttpOnly####OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=; expires=Thu, 01-Jan-1970 00:00:00 GMT; path=/; secure####MUID=2D7BBAF0E0366EBF1579B74CE1EA6FC9; path=/; secure; expires=Fri, 11-Sep-2020 15:43:26 GMT; domain=office.com
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:27 WAT
+======
+RemoteIP: 127.0.0.1:61876
+======
+UUID: 
+======
+URL: https://www.office.com
+======
+OpenIdConnect.nonce.mT6ar%2ByYj3UEA4CUjMd%2Fee3tcN5eTNZzLhsc4ITL0TY%3D=eUJ5Wk5FM3Q4Qmt1T2h0VGg2QTJUQ3M4XzB4anIwNGR4VUlUQXNNQlhWS3pwdGtXOTVYQVpEaGdWY1lpc3IwWDNKTDNjNWRBU0RtZWx5eWJOUzV6R2JPa2FwcnFQc0xsMnF2TVJibnpQWkVfT1BaUUN5RkpJWEpIRWZQOGpPMDMzTlZKbHo1V0psZ05vVEQ4Zm5OVGZ6eDVPOHFNbnBKYW5PQ1RKQndyajczMW4tNUxHS2NXTWNBREZDSTlCTlB5dUVvejNSc01yMVJhTmRFX2RmeGlhZHpTX0dOaHF5eUR1QlNudjA0eklUWFJReFBFUjJoc0pubEtzS18tVDJOcg%3D%3D; path=/; ; HttpOnly####OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT####OpenIdConnect.nonce.mT6ar%2ByYj3UEA4CUjMd%2Fee3tcN5eTNZzLhsc4ITL0TY%3D=eUJ5Wk5FM3Q4Qmt1T2h0VGg2QTJUQ3M4XzB4anIwNGR4VUlUQXNNQlhWS3pwdGtXOTVYQVpEaGdWY1lpc3IwWDNKTDNjNWRBU0RtZWx5eWJOUzV6R2JPa2FwcnFQc0xsMnF2TVJibnpQWkVfT1BaUUN5RkpJWEpIRWZQOGpPMDMzTlZKbHo1V0psZ05vVEQ4Zm5OVGZ6eDVPOHFNbnBKYW5PQ1RKQndyajczMW4tNUxHS2NXTWNBREZDSTlCTlB5dUVvejNSc01yMVJhTmRFX2RmeGlhZHpTX0dOaHF5eUR1QlNudjA0eklUWFJReFBFUjJoc0pubEtzS18tVDJOcg%3D%3D; path=/; ; HttpOnly####OpenIdConnect.nonce.Ozip5OufT6XnPgLeU4qGucoTq42E7HMjF9evWAgrl5Y%3D=; expires=Thu, 01-Jan-1970 00:00:00 GMT; path=/; ####MUID=2D7BBAF0E0366EBF1579B74CE1EA6FC9; path=/; ; expires=Fri, 11-Sep-2020 15:43:26 GMT; domain=5t3cg9e3.loopback.modlishka.io
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:27 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+GET /common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dJzmsj1ipJeRmicUdDrgMLos5QWF9qKBtpEza29WCxFE9wYiZL6dpga9LKiHU034lcBBaKZ9g40QIpKQPuIz6vTBvhf5wQTX6pUYW8vjws8R5GN4-pGtparjm1HGPboZV&nonce=637017398069677211.MWYzMmMxN2EtMDFiMy00MTYyLTlhZTQtNTgyMGZiNTNhNjJhYmFlOTY1OWYtNzUxMi00ZDc3LTgzMWUtNjYzNGVlNzQxMGUz&redirect_uri=https%3a%2f%2fwww.office.com%2f&ui_locales=en-US&mkt=en-US&client-request-id=24d0ce57-e4eb-4a7f-96b3-5437b40848e3 HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: CkTst=G1566142797205; __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AQAAAEho69QOAAAA; esctx=AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxO_8lXyuffCt1OgG3u1iXCFj5cpz1EOuYRLiyU8mRsoqdYSQERjZODqLMVvbubK4AEarD-hgT4DV6hzy6VhrkXH4JaZoJ22pdgoYFQ-icfRR6IfMjIayC76h6nHQgYilps-EimOWEn4fKbT2-RwgMQaN0ZnggaU2kqmeFIFP5RvcgAA; x-ms-gateway-slice=prod; stsservicecookie=ests; buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxE9zXI2lzbW9hBLqocWjlW5mul9bOD8Wtdp7oKJmZUBFE-dCqdUXG5bK5LAtXue8a1akVYnp1b65oNsBbFgsaAPItw9p2HXNQqVNltnYuIlQgAA
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:28 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxpHPxOqCeSmnpNcMTsP1w5s1m0EHiEW0S3UbpRRE0lXuo2zDBaTQQ5lU-ogHPTqS-vIsWrISPid3NTLHZo-TyBOY4c41vuB47KJlU-8rqSKQgAA; expires=Tue, 17-Sep-2019 15:43:28 GMT; path=/; secure; HttpOnly####fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AgAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:43:28 GMT; path=/; secure; HttpOnly####x-ms-gateway-slice=prod; path=/; secure; HttpOnly####stsservicecookie=ests; path=/; secure; HttpOnly
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:28 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxpHPxOqCeSmnpNcMTsP1w5s1m0EHiEW0S3UbpRRE0lXuo2zDBaTQQ5lU-ogHPTqS-vIsWrISPid3NTLHZo-TyBOY4c41vuB47KJlU-8rqSKQgAA; expires=Tue, 17-Sep-2019 15:43:28 GMT; path=/; ; HttpOnly####fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AgAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:43:28 GMT; path=/; ; HttpOnly####x-ms-gateway-slice=prod; path=/; ; HttpOnly####stsservicecookie=ests; path=/; ; HttpOnly
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:28 WAT
+======
+RemoteIP: 127.0.0.1:61876
+======
+UUID: 
+======
+GET /prefetch/prefetch HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; OH.DCAffinity=OH-suk; OH.SID=24d0ce57-e4eb-4a7f-96b3-5437b40848e3; p.UnAuthUserCookie=59aba285-54c4-451c-a7d1-01cb20b94e57; OpenIdConnect.nonce.mT6ar%2ByYj3UEA4CUjMd%2Fee3tcN5eTNZzLhsc4ITL0TY%3D=eUJ5Wk5FM3Q4Qmt1T2h0VGg2QTJUQ3M4XzB4anIwNGR4VUlUQXNNQlhWS3pwdGtXOTVYQVpEaGdWY1lpc3IwWDNKTDNjNWRBU0RtZWx5eWJOUzV6R2JPa2FwcnFQc0xsMnF2TVJibnpQWkVfT1BaUUN5RkpJWEpIRWZQOGpPMDMzTlZKbHo1V0psZ05vVEQ4Zm5OVGZ6eDVPOHFNbnBKYW5PQ1RKQndyajczMW4tNUxHS2NXTWNBREZDSTlCTlB5dUVvejNSc01yMVJhTmRFX2RmeGlhZHpTX0dOaHF5eUR1QlNudjA0eklUWFJReFBFUjJoc0pubEtzS18tVDJOcg%3D%3D
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:28 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+POST /common/instrumentation/reportpageload?mkt=en-US HTTP/1.1
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Canary: AQABAAAAAAAP0wLlqdLVToOpA4kwzSnx9kvocl9jY_x6ZmBXXIicvNWcOrgD3Rg2mQW57XxhQfzzvj6E3YzWdgQaA2RWyykN5_odj16Ha5zletYpovJPD9Ym7b0nipiA-5JYkq2z2oumMZ4B4DO0aRmj7iz2BxN23-5byU6khk-8QgJVoeu6ulE1jW9HOOih9OgDiY7KfZbq5Pwv1I6NLWV6F2DULOQswpfcIoiiHbkpTN7CLs-YciAA
+Client-Request-Id: 24d0ce57-e4eb-4a7f-96b3-5437b40848e3
+Connection: keep-alive
+Content-Length: 6985
+Content-Type: application/json; charset=utf-8
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AgAAAEho69QOAAAA; esctx=AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxO_8lXyuffCt1OgG3u1iXCFj5cpz1EOuYRLiyU8mRsoqdYSQERjZODqLMVvbubK4AEarD-hgT4DV6hzy6VhrkXH4JaZoJ22pdgoYFQ-icfRR6IfMjIayC76h6nHQgYilps-EimOWEn4fKbT2-RwgMQaN0ZnggaU2kqmeFIFP5RvcgAA; x-ms-gateway-slice=prod; stsservicecookie=ests; buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxpHPxOqCeSmnpNcMTsP1w5s1m0EHiEW0S3UbpRRE0lXuo2zDBaTQQ5lU-ogHPTqS-vIsWrISPid3NTLHZo-TyBOY4c41vuB47KJlU-8rqSKQgAA
+Dnt: 1
+Hpgact: 1800
+Hpgid: 1104
+Hpgrequestid: ac3d23c5-b60d-4604-9441-a6e11b576800
+Referer: https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dJzmsj1ipJeRmicUdDrgMLos5QWF9qKBtpEza29WCxFE9wYiZL6dpga9LKiHU034lcBBaKZ9g40QIpKQPuIz6vTBvhf5wQTX6pUYW8vjws8R5GN4-pGtparjm1HGPboZV&nonce=637017398069677211.MWYzMmMxN2EtMDFiMy00MTYyLTlhZTQtNTgyMGZiNTNhNjJhYmFlOTY1OWYtNzUxMi00ZDc3LTgzMWUtNjYzNGVlNzQxMGUz&redirect_uri=https%3a%2f%2fwww.office.com%2f&ui_locales=en-US&mkt=en-US&client-request-id=24d0ce57-e4eb-4a7f-96b3-5437b40848e3
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+{"hostBuildNumber":"2.1.9261.9","serverExecutionTime":63,"requestCountry":"NG","plt":0,"performanceData":{"navigation":{"type":0,"redirectCount":0},"timing":{"navigationStart":1566143004025,"unloadEventStart":0,"unloadEventEnd":0,"redirectStart":0,"redirectEnd":0,"fetchStart":1566143007079,"domainLookupStart":1566143007079,"domainLookupEnd":1566143007079,"connectStart":1566143007079,"connectEnd":1566143007079,"secureConnectionStart":1566143004025,"requestStart":1566143007082,"responseStart":1566143008303,"responseEnd":1566143008303,"domLoading":1566143008306,"domInteractive":1566143008395,"domContentLoadedEventStart":1566143008396,"domContentLoadedEventEnd":1566143008397,"domComplete":1566143008398,"loadEventStart":1566143008398,"loadEventEnd":1566143008584},"entries":[{"name":"https://login.loopback.modlishka.io/common/oauth2/authorize\u003Fclient_id=4345a7b9-9a63-4910-a426-35363201d503&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dJzmsj1ipJeRmicUdDrgMLos5QWF9qKBtpEza29WCxFE9wYiZL6dpga9LKiHU034lcBBaKZ9g40QIpKQPuIz6vTBvhf5wQTX6pUYW8vjws8R5GN4-pGtparjm1HGPboZV&nonce=637017398069677211.MWYzMmMxN2EtMDFiMy00MTYyLTlhZTQtNTgyMGZiNTNhNjJhYmFlOTY1OWYtNzUxMi00ZDc3LTgzMWUtNjYzNGVlNzQxMGUz&redirect_uri=https%3a%2f%2fwww.office.com%2f&ui_locales=en-US&mkt=en-US&client-request-id=24d0ce57-e4eb-4a7f-96b3-5437b40848e3","entryType":"navigation","startTime":0,"duration":4559,"initiatorType":"navigation","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":1,"redirectEnd":3054,"fetchStart":3054,"domainLookupStart":3054,"domainLookupEnd":3054,"connectStart":3054,"connectEnd":3054,"secureConnectionStart":0,"requestStart":3057,"responseStart":4279,"responseEnd":4279,"transferSize":14869,"encodedBodySize":13788,"decodedBodySize":34027,"serverTiming":[],"unloadEventStart":0,"unloadEventEnd":0,"domInteractive":4371,"domContentLoadedEventStart":4372,"domContentLoadedEventEnd":4372,"domComplete":4373,"loadEventStart":4373,"loadEventEnd":4559,"type":"navigate","redirectCount":0},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/cdnbundles/ux.converged.login.pcore.min_qs5vev6kccg0pxrilnbyfg2.js","entryType":"resource","startTime":4290,"duration":36,"initiatorType":"script","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4290,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4326,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/cdnbundles/ux.converged.login.strings-en.min_rhxg2_8lvl221-rpvrjriw2.js","entryType":"resource","startTime":4290,"duration":38,"initiatorType":"script","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4290,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4328,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/cdnbundles/converged.v2.login.min_yauhz6hbxojfs4ida6n8aq2.css","entryType":"resource","startTime":4290,"duration":35,"initiatorType":"link","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4290,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4325,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico","entryType":"resource","startTime":4372,"duration":2,"initiatorType":"other","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4372,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4374,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/images/microsoft_logo_ee5c8d9fb6248c938fd0dc19370e90bd.svg","entryType":"resource","startTime":4453,"duration":2,"initiatorType":"img","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4453,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4455,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/images/ellipsis_white_5ac590ee72bfe06a7cecfd75b588ad73.svg","entryType":"resource","startTime":4473,"duration":4,"initiatorType":"img","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4473,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4477,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/images/ellipsis_grey_2b5d393db04a5e6e1f739cb266e65b4c.svg","entryType":"resource","startTime":4476,"duration":2,"initiatorType":"img","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4476,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4478,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/images/backgrounds/0-small_138bcee624fa04ef9b75e86211a9fe0d.jpg","entryType":"resource","startTime":4492,"duration":13,"initiatorType":"img","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4492,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4505,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]},{"name":"https://5y15eftqgj4bey3p4vpbfgr9.loopback.modlishka.io/ests/2.1/content/images/backgrounds/0_a5dbd4393ff6a725c7e62b61df7e72f0.jpg","entryType":"resource","startTime":4493,"duration":14,"initiatorType":"img","nextHopProtocol":"http/1.1","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4493,"domainLookupStart":0,"domainLookupEnd":0,"connectStart":0,"connectEnd":0,"secureConnectionStart":0,"requestStart":0,"responseStart":0,"responseEnd":4507,"transferSize":0,"encodedBodySize":0,"decodedBodySize":0,"serverTiming":[]}]}}
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:29 WAT
+======
+RemoteIP: 127.0.0.1:61876
+======
+UUID: 
+======
+URL: https://www.office.com
+======
+MUID=23B70403810061972D1009BF800B6072; path=/; secure; expires=Fri, 11-Sep-2020 15:43:29 GMT; domain=office.com
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:29 WAT
+======
+RemoteIP: 127.0.0.1:61876
+======
+UUID: 
+======
+URL: https://www.office.com
+======
+MUID=23B70403810061972D1009BF800B6072; path=/; ; expires=Fri, 11-Sep-2020 15:43:29 GMT; domain=5t3cg9e3.loopback.modlishka.io
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:29 WAT
+======
+RemoteIP: 127.0.0.1:61906
+======
+UUID: 
+======
+GET /owa/prefetch.aspx HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; ClientId=CDFEDC3BD4E142F7AF171D9CE4D0139B; OIDC=1; OWAPF=p:00000111&v:16.3216.1.2706983&l:mouse&
+Dnt: 1
+Referer: https://www.office.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:29 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AgAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:43:29 GMT; path=/; secure; HttpOnly####x-ms-gateway-slice=prod; path=/; secure; HttpOnly####stsservicecookie=ests; path=/; secure; HttpOnly
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:29 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AgAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:43:29 GMT; path=/; ; HttpOnly####x-ms-gateway-slice=prod; path=/; ; HttpOnly####stsservicecookie=ests; path=/; ; HttpOnly
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:29 WAT
+======
+RemoteIP: 127.0.0.1:61912
+======
+UUID: 
+======
+POST /Collector/3.0/?qsp=true&content-type=application%2Fbond-compact-binary&client-id=NO_AUTH&sdk-version=ACT-Web-JS-2.9.0&x-apikey=af7114704a204580909f08c904c5ac6f-6f6f4c13-294c-4a00-8e55-71180ed7d627-7044 HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Content-Length: 2718
+Dnt: 1
+Origin: https://www.odwebp.svc.ms
+Referer: https://www.odwebp.svc.ms/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
++
+IJS_default_source©$90b58c48-8011-00db-ca6e-97a995b8726c—í–Æ÷î[À
+)$64d3d80a-738a-bee2-ce11-345aff2e65ffqå–Æ÷î[©custom…ev_pageinitÕ		*EventInfo.SourceJS_default_sourceEventInfo.InitId$edf7d818-154c-616a-cdbd-0e0a603d33f5EventInfo.Sequence1EventInfo.Nameev_pageinitEventInfo.Time2019-08-18T15:43:29.798ZEventInfo.SdkVersionACT-Web-JS-2.9.0AppInfo.Languageen-usUserInfo.Languageen-USUserInfo.TimeZone+0-1:00DeviceInfo.BrowserNameFirefoxDeviceInfo.BrowserVersion68.0DeviceInfo.OsNameMac OS XDeviceInfo.OsVersion10AppInfo.Version&odsp-next-prod_2019-08-02_20190814.002UserInfo.Id$ad18609f-c958-47c6-9935-688649fe6d00UserInfo.IdType AppInfo.Session$f69aa665-07a2-4ac6-823a-531e03f83f9bAppInfo.Manifest
+2019-08-02AccountTypeBusinessAnonymousBrowserIsMobilefalseBrowserMajVer68BrowserMinVer0BrowserNameFirefoxBrowserUserAgentRMozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0EnvironmentprodIsAuthenticated0SiteSubscriptionId WorkloadODBCorrelationVectorn00000000-0000-0000-0000-000000000000#12b6a5df-28ec-4d36-8d93-9f0e27797d35#4ac12b21-91f6-4b86-802e-30441a58687fValidationErrors0WebLog_FullName	PageInit,WebLog_EventTypeSingleWebLog_Type_PageInit1PageInit_screenWidth1440PageInit_screenHeight835PageInit_availableScreenWidth1440PageInit_availableScreenHeight835PageInit_renderWidth0PageInit_renderHeight0PageInit_browserWidth2712PageInit_browserHeight1570PageInit_devicePixelRatio1 )$0f01bc65-6a1b-dea5-2d29-8e7045012f85qê–Æ÷î[©custom…ev_qoeÕ		$EventInfo.SourceJS_default_sourceEventInfo.InitId$edf7d818-154c-616a-cdbd-0e0a603d33f5EventInfo.Sequence2EventInfo.Nameev_qoeEventInfo.Time2019-08-18T15:43:29.800ZEventInfo.SdkVersionACT-Web-JS-2.9.0AppInfo.Languageen-usUserInfo.Languageen-USUserInfo.TimeZone+0-1:00DeviceInfo.BrowserNameFirefoxDeviceInfo.BrowserVersion68.0DeviceInfo.OsNameMac OS XDeviceInfo.OsVersion10AppInfo.Version&odsp-next-prod_2019-08-02_20190814.002UserInfo.Id$ad18609f-c958-47c6-9935-688649fe6d00UserInfo.IdType AppInfo.Session$f69aa665-07a2-4ac6-823a-531e03f83f9bAppInfo.Manifest
+2019-08-02AccountTypeBusinessAnonymousBrowserIsMobilefalseBrowserMajVer68BrowserMinVer0BrowserNameFirefoxBrowserUserAgentRMozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0EnvironmentprodIsAuthenticated0SiteSubscriptionId WorkloadODBCorrelationVectorn00000000-0000-0000-0000-000000000000#12b6a5df-28ec-4d36-8d93-9f0e27797d35#a8e7aa3d-0146-4e1f-8e56-0806a257ec75ValidationErrors0WebLog_FullNameQoe,WebLog_EventTypeSingleWebLog_Type_Qoe1	Qoe_stageAppLoadQoe_errorBeforeStagefalseQoe_errorDuringStagefalse   
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:30 WAT
+======
+RemoteIP: 127.0.0.1:61906
+======
+UUID: 
+======
+URL: https://outlook.office365.com
+======
+OWAPF=v:16.3216.1.2706983&l:mouse; path=/
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:30 WAT
+======
+RemoteIP: 127.0.0.1:61906
+======
+UUID: 
+======
+URL: https://outlook.office365.com
+======
+OWAPF=v:16.3216.1.2706983&l:mouse; path=/
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:30 WAT
+======
+RemoteIP: 127.0.0.1:61920
+======
+UUID: 
+======
+GET /versionless/startpages/exceltheme.min.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:30 WAT
+======
+RemoteIP: 127.0.0.1:61919
+======
+UUID: 
+======
+GET /versionless/startpages/wordtheme.min.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:30 WAT
+======
+RemoteIP: 127.0.0.1:61922
+======
+UUID: 
+======
+GET /versionless/startpages/powerpointtheme.min.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:30 WAT
+======
+RemoteIP: 127.0.0.1:61921
+======
+UUID: 
+======
+GET /versionless/startpages/swaytheme.min.css HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913
+Dnt: 1
+Referer: https://www.office.com/
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+X-Moz: prefetch
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:30 WAT
+======
+RemoteIP: 127.0.0.1:61912
+======
+UUID: 
+======
+URL: https://browser.pipe.aria.microsoft.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:31 WAT
+======
+RemoteIP: 127.0.0.1:61921
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:31 WAT
+======
+RemoteIP: 127.0.0.1:61919
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:31 WAT
+======
+RemoteIP: 127.0.0.1:61922
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:32 WAT
+======
+RemoteIP: 127.0.0.1:61920
+======
+UUID: 
+======
+URL: https://blob.officehome.msocdn.com
+======
+
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:50 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+POST /common/GetCredentialType?mkt=en-US HTTP/1.1
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Canary: AQABAAAAAAAP0wLlqdLVToOpA4kwzSnx9kvocl9jY_x6ZmBXXIicvNWcOrgD3Rg2mQW57XxhQfzzvj6E3YzWdgQaA2RWyykN5_odj16Ha5zletYpovJPD9Ym7b0nipiA-5JYkq2z2oumMZ4B4DO0aRmj7iz2BxN23-5byU6khk-8QgJVoeu6ulE1jW9HOOih9OgDiY7KfZbq5Pwv1I6NLWV6F2DULOQswpfcIoiiHbkpTN7CLs-YciAA
+Client-Request-Id: 24d0ce57-e4eb-4a7f-96b3-5437b40848e3
+Connection: keep-alive
+Content-Length: 1458
+Content-Type: application/json; charset=utf-8
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AgAAAEho69QOAAAA; esctx=AQABAAAAAAAP0wLlqdLVToOpA4kwzSnxO_8lXyuffCt1OgG3u1iXCFj5cpz1EOuYRLiyU8mRsoqdYSQERjZODqLMVvbubK4AEarD-hgT4DV6hzy6VhrkXH4JaZoJ22pdgoYFQ-icfRR6IfMjIayC76h6nHQgYilps-EimOWEn4fKbT2-RwgMQaN0ZnggaU2kqmeFIFP5RvcgAA; x-ms-gateway-slice=prod; stsservicecookie=ests; buid=AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxpHPxOqCeSmnpNcMTsP1w5s1m0EHiEW0S3UbpRRE0lXuo2zDBaTQQ5lU-ogHPTqS-vIsWrISPid3NTLHZo-TyBOY4c41vuB47KJlU-8rqSKQgAA
+Dnt: 1
+Hpgact: 1800
+Hpgid: 1104
+Hpgrequestid: ac3d23c5-b60d-4604-9441-a6e11b576800
+Referer: https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dJzmsj1ipJeRmicUdDrgMLos5QWF9qKBtpEza29WCxFE9wYiZL6dpga9LKiHU034lcBBaKZ9g40QIpKQPuIz6vTBvhf5wQTX6pUYW8vjws8R5GN4-pGtparjm1HGPboZV&nonce=637017398069677211.MWYzMmMxN2EtMDFiMy00MTYyLTlhZTQtNTgyMGZiNTNhNjJhYmFlOTY1OWYtNzUxMi00ZDc3LTgzMWUtNjYzNGVlNzQxMGUz&redirect_uri=https%3a%2f%2fwww.office.com%2f&ui_locales=en-US&mkt=en-US&client-request-id=24d0ce57-e4eb-4a7f-96b3-5437b40848e3
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+{"username":"default.settings@outlook.com","isOtherIdpSupported":true,"checkPhones":false,"isRemoteNGCSupported":true,"isCookieBannerShown":false,"isFidoSupported":false,"originalRequest":"rQIIAXWRO2_TUABG67ygSDzEwsCCRCckJ9fvOFKGpnk6uU5c7Bp7QY7t2DeNH7Vv48QLK2MHxNCRAaSKCRBC7CwdUGY2BAOCBTEx0v4AljN9w9F3HhSpKtXYYRmWs4SpSIoWz5CsSAHSYmmeZDiGZ2hAORxgktvXbumfNzu_vj-Rnr9VhXdX-9_OiDs-xnHaqNWyLKtGsxmy3aodBbUPBLEhiB8EcVoouyGpPTwrpDwjAEpgxDrgRV4QaIqqQt3IYQBXMt3BsN1FcA0AVI31SF34pqpgWfXWsGciWZV9eS75RtBdjFWDGusGlnNtBREAZttmRqqXQ13D8tzI5d7BQs6VFexp-ZfCzfHuMfbpS0QJyt0_he1ZlASP4yjFp8VXxDh2w4GzF4Wha-Pq5cwNMbItjKJwkkSxm2Dkpk0pD9I5hWLJ3Q-QrTntxIOjKOUUvSseDVs47uQWLep7q25HzAxkjngn9ixxNER9DTDswm61rKEpeixQBvFQmRwPcn6ptpb-jMsU9REfa4ZeX86ztL7P9WSWjHs4tpJ5QPV7k2lkHrwpVi5uDaLwvHjjQipEzr04iWZo4W5KxM9SAZT_logX5YtGn-43X19_X-o-23359a7ub52Xa_X2FFsL0TFpSRAAGk6pw6ND2ulLGfAET14nq3xah8pK4mGTbVAnFeKkUvldIZ5e2fq4_b_C_wA1","country":"NG","forceotclogin":false,"isExternalFederationDisallowed":false,"isRemoteConnectSupported":false,"federationFlags":0,"flowToken":"AQABAAEAAAAP0wLlqdLVToOpA4kwzSnxrD7tuixsOOh9p1RhvFeDmARO2J05ZgIbuUbJ7ocAWtko4cBAEGupwFuBZdG2_OGa4iu5i92bVkqquqv5cu5LYAzTWZOvY-hTb-5siOaHcM2wJXYpykvX6EGVWeviYNtE05gGa1FZxmbyrFU1zje43pyGpMk2aMP8QoeOCWJl3Lo70YYk3VoguklB3hwG02vwx8aoTfNMfWM1wTjj3H6J6K-5SQXs60YCgnVeJ5kcCZEjQNf3sVa1ifNRJ6BsgK70hKPH6k-vyn_rSmaH97b7TWPI8DTXWocUie3DlOOUIhpyU1q7rConVmNVnbrzakAxH17VVX34Y6-_GfaKNUib6XKjbmZU8qBDt97zBWX00lqbCiCnaWEMQ8HUHyycyI1QIAA"}
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:51 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AgAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:43:51 GMT; path=/; secure; HttpOnly####x-ms-gateway-slice=prod; path=/; secure; HttpOnly####stsservicecookie=ests; path=/; secure; HttpOnly
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:51 WAT
+======
+RemoteIP: 127.0.0.1:61870
+======
+UUID: 
+======
+URL: https://login.microsoftonline.com
+======
+fpc=AipSxGP1k65DkHdfxtOQzFt9Hyj2AgAAAEho69QOAAAA; expires=Tue, 17-Sep-2019 15:43:51 GMT; path=/; ; HttpOnly####x-ms-gateway-slice=prod; path=/; ; HttpOnly####stsservicecookie=ests; path=/; ; HttpOnly
+======
+
+REQUEST
+======
+Timestamp: Sunday, 18-Aug-19 16:43:51 WAT
+======
+RemoteIP: 127.0.0.1:62016
+======
+UUID: 
+======
+GET /oauth20_authorize.srf?response_type=code&client_id=51483342-085c-4d86-bf88-cf50c7252078&scope=openid+profile+email+offline_access&response_mode=form_post&redirect_uri=https%3a%2f%2flogin.microsoftonline.com%2fcommon%2ffederation%2foauth2&state=rQIIAXWSO2zTYACE67yglXgIITGwVKITkpPfbztShqZpkjqxUxe7xl4qx3bsP_Wr9t848cLK2AExdGQAqWIChBA7SwfUuRuCAcGCmBhJ2VluuRtO993DMlEnmhs0RTMWNxZwwWIpnBYIgFs0yeIUQ7EUCQiHAVR6Z-22_vli4-e3J-Lztyr37nr_6ym2ehDAmVu34_AMu-cjlGTNRiPP83o8mUD7n9H4gGEXGPYdw05LVTfCtUdnpYylOEBwlMADVmA5jiSIuqQbhRRKc5ncRlKnC6UFAJJqLIZq4JuqgmTVW0g9E8qq7MtT0TfCbjBSDWKkG0gutLkEATA7NjVUvULSNSRPjULu7QdyocylnlZclm6NNo-RT15JnMLC_V1ancRpeJDEGTotv8JGiRvtOFtxFLk2ql_F3AhB20IwjnbTOHFTBN2sJRZhNiVgIrp7IbQ1p5N60jDOGEXvCkeDNkq2C4sU9K15d1vIDWgOWSfxLGE4gH0NUHRgt9vWwBQ8Gig7yUDZPd4p2JnanvkTJlfUx2yiGTo_m-YZv8f0ZBpPeiix0mlI9Hu749jcf1OuLWcN4-i8fHNZKoLOepLGExi4FxXsR6UEqn8q2IvqktenB63XN95Xus82X365r_sr59UG3xkjKxAckxQ5DsDBmDg8OiSdvpgDj_PkRTovxrykzEVWatFN4qSGndRqv2rY02srH1f_R_hy7e7yJQIOeJzg1wmmSVNNkjf_Ag2&estsfed=1&uaid=24d0ce57e4eb4a7f96b35437b40848e3&fci=4345a7b9-9a63-4910-a426-35363201d503&mkt=en-US&username=default.settings%40outlook.com HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Cookie: __cfduid=d6984c7f7427d30694f4cfad99e28612e1566131906; _gcl_au=1.1.2043666195.1566131913; MSPRequ=lt=1566142846&co=1&id=N; uaid=9b6330fb7e544f99aacf049197e1aeda; MSCC=129.56.36.16-NG; OParams=11DU05!fK4NBys972jgY5CFPWh*8DUD5ZDE4qNJ5A5tSmqpZYZZ9xA6hDK*0TZp8X336KngVjpMeF5wm6qUCfji5JjtYXLLV1Tova9moqdurKps8oHkPRqJVqf1NuGq!GDzsO16XtObfOFPqlMowm!WUvOiykDgQNT2M672cq7HpGnLO3q2n5egbpsGB0XTPuCkQ7btS6h*hRLL2KECgBnFavI5Ln6yLVimH45dKB9IomEFUaUI1PaSjSWnfD8GrivEq!plLeEGOOxZd1DXaq!Zs5tJpOGhXB9lQwFPMZZ6bMTXu!mP7*oeGABxIFKC*8QqoCMjHwCSTnBsHdRGYnBoRuzdmqe8ToG66EqjviGH*KiDjSz9CejPwyct!ZJCKXkz26ot8pSOOAyD*HbkPNhHiABIFfxhUjEwtEkw!0fIIMpHDOEIwcHO9NNjIbhoxJwtT!IweBsVAaQvMr7ZVdF*rVkXoYw1vU*ZAAnBeO3PRtEMgNei55KKeM6kKCPRFYKfjw6HbZOBNBTniODVMjznU*n7bZGoBoFVbL8blgAmCbQ!HI6Qafz9!SfMjPvtZexEs0OUakhg9EBCfxlFiFVqudkza0LqnDjDkPdNSLZleWTI0BuIg0Q8RvUBc*43uKkmHdKhQnw6BT8kGNx595*t4OG9jxF6XHtou360WdbV0BPgA52QzeWQzXSeCDiSxXdBppXhBrHcaEWqRNy1ZGoMH7ecEi9FDwUs*3a2fYwGsq5*VJ**pa!J2mpXwbE97jf0mZhFCofCE4TFSIHoUm8*IOKWgnZ1KExOouxzHJ4rECqhH1y39FokC61wPozlkwoBiUb13gkanmMLucIFh4hVTNoxez9t10NbCeKZUnvEizNy7pL4bu46Mterj4bQhwiXAoVChHdT3TcCJ07ZmzQ!3A6ZTzPDHYgpaQ!dyFoW8Ltpn00tl09wSepQYL0JIx3YBOgpjta3K0fcLxFHCbxh3lpG3MKXjGigFXiW!7c4!OxRdQvEnp7pgBp9W4I*TsF*B0oGcwtRH1V9ecR8qnDdIX3Aq0S9lyByznBXTOPEFpXC0CnboYRkP!quVpdnSsc9fps0UeKWJJV!TYqLrfPbBCo4YUmtjZE3Fu0B6XiGA5KbJEEKhfq0a535pq7O125!cO0ROHYQBxjvveoUv5XxAZSD1J8XYCp4KYi0xHKs*wW7BKEgv2Sm1fhAZRWlU!4Dw3hb!XkCnSmNZguwsSFiDAjS2Pz5NnWM0EFAohbLOTu4srthYLRqlmckAxfoIrGjTXN1JuFAgerj!yZ2v6WL0Xasn0uDshVKvoqwtR!e374djNF58YIISrKYiA7mxOXV!iqZDrLs4Z9XJIWZslk1jvZvt*KfSxH6MFREGArxH2GMscu3OubWKSpbC1FQUJF*0gXwfN4WFs2EyOI6qTNvZnBomf5GMjDxNutnaBGaaWIzfdm7SXB6ESCV0yWFfjmeMp5Gc8Bxqpaw0ykqLTAqEJ3zeBu*zXruqEztbHYSFuMV9kWMnjJ3E0C2aPMFW35Fz3mzGE4o2LR*lNuMmQECu*yXW!gud9GawljLmdb4*77; MSPOK=$uuid-5c727d76-537d-414f-bd7d-250340d7b925; CkTst=G1566142850115
+Dnt: 1
+Referer: https://login.microsoftonline.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+
+
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:53 WAT
+======
+RemoteIP: 127.0.0.1:62016
+======
+UUID: 
+======
+URL: https://login.live.com
+======
+MSPRequ=lt=1566143033&id=N&co=1; secure= ;path=/;HTTPOnly=;version=1####uaid=24d0ce57e4eb4a7f96b35437b40848e3; domain=login.live.com;secure= ;path=/;HTTPOnly= ;version=1####OParams=11DTg0zFeXM06pwPTc6U69CYrZOUFeA8rTClzf!yny5DFTC!wihkEDyn9QPSxBDeAv3lq5txwaYhkwu1AOgID93IbGXZEeGHRLT5YCsn4zCy3VLaZzJ!nfsZbfeAdkLE2!hdGVyGRckAOhR*3TjlmJzI7KmuOGhWZw0G55hJVqQh3btxJaJV*RSPXsuc1o0ZYGVxskl8nJGMFna092FweLQZuBgtRVnrnsYua1vgu1*Iy8JD7dz*T0tKsjQQubkrbnUnUSPQPlZa9GTMEA5pNjsKqI2UeI54T5Y4msXqnq0QcLVMaLC5jm2vB5wQ*XlyyjRQonYhHAQVptaFNGS1*vyLGQYvk7bUhioiKTozvOQtsAS1IbLiK!9JyLGi7vSgmbJyAfZGSBdqx4DZpfwGp6aZlftqnRpoRp!ZpfVYAYu55!IOlVxTRAuA5ilDessmoXo!OYsGP6Ubwhnv9mXlPev73lIyrUKeE2lCZKv1w*Zek8Je4swrws2Sy6*dyaMn2USzXMdcmQBb!LACjkKzJUbQLfXkhh5dQEupdo*qnuyQK*b*D78miqEzrydJMSPXNoK5Vd!ETSMHa8l7vX57uhYUCio*9qZQHpXPDnhsfsuCE*FcpyxPoMO0ZeYQlTcec!4WFHvdwa70bDHwymrx7PPKo1yDaSp8RXcFp4l7lpZP6lM2U6rA6ut8Ew0bdJ9eJSRpzAKmwGKtM8erRmddy1CW3sgJtuorzRbg1TUsxKIuI9hLxLA5t7b9SnBSmrGAQXKkLQCWznQoUKLAr37!F2*!ly08F*GYUs4qqWK3bi7Wf9ZSzNg6dRoc7ujQpIcavYfcYtnTHelVqpsfcuvwE5Lm9xI1*g3JmntZaHW3RSQBDDFcIZwgolVax070q*8Dtb5ORhWWCJomURPApnawrYCRUXw19u18nIm8Mk!q5*0w4Be6Rn4aDdsmUONAOhLVntWsGV9Q4YxHqelkj4G*xiV5fMrBGq*hHTkglMbJ0l0tmam5G111t3fgWXm4nnQk7XIXZioowqGwIvYL7ddcOJjHD*72Vs6guYCgjqKP9Wa*OaJxolj89qk1j!YzVUVUQ9ECw6uBn9o0IxvBafSNcEmMsQg5QZA15QomvaL3ITpu5KZMTCmUNTCoAS48vP5vRn6dh3wTZc2ledODpWyBM4gBQ!T!o3vIFUM4!BEZg*Jzb1lZ08RNJOZI7*SkbocdOqiOJLXP06v5q394mdaHy44Cd6eqNziSlbcGztn2hBlDeM7JAi4PAXR!*B5SnWgrhunq8xPnOcsANeD7g0FajSFRisC72i27ypSRH*iB*Qaj*Id8wIz26zIDQmp7coR3Fe95iI9EfVo7W3iJm6xa0SOemAOvfvY3cCOKQnVtAT4SoD1vDpT*ijF8VonsjmQxn1N1JdYcmbnFknTu5jSnmES6NeFQx30xToaail8g6teL9Yi!W4WYSJdM*Xav!uxQ5XdT1RLP1gaU*9VyyuHTM2ukUORpZrvgGamD1N1ih7zqQnfLb2VLaZZYYnxdye2kW9cI*cNQzG0pcljpHl98zP5K*4R7vFh*2mWGOV04nXVvns9r0aNStNWQUsZfOU*bPWi*ghocxxEVcyLAtHIg8EFsQkCFaOKmjH7kOPA3L9BXXedhN5yXTfCQKM!A1S9tz0OpQ6P3cwCu!JUtI1N554ngxTocYbmANXDiB66xRRVqgd*SNQp0H*tsjfHpdxhjnMLfcclzT25RZakW*zJEKEYtDbnDanK2w5V8oalQ9g6BGSsvyHhQOpLCOvQ7hsQ2u3910Xcy3ILkWOxcBq2JG2rSOxoO22MdYv8HUqTiaTm9A7TctfB6t0hRDQ9whD7!SWswyVoFeJ4aKYVnH9J*5VKVH3oqjht8su7Rh9BviiaZH1oeuytyYOsY8pkDpu9khaCUTkvhre7vqfUjWGhWNOj6CjXvcC*csramVd5UU7NfvP42IYqHoEhGWE!WqLONcHDcafTWPRu41YfvmW3aYrZCQ6TCFkC2Ctx9ZujIBHabB3GomrjyN!!17nEQVFjTAEQ4yk*Bgz4DbchI4MO!F0Tq7BpZzyNVrzaRcBC8qWL4A0fUldtmr2A0UGsC8!eeCvzo19!eYvKBFXjLe85mErSVI*9yhdzesCZjgjD!CIiok5ncK4xzBjUl8dE61hb7*fE7I*gCICU*8fJDAqKXVBaoElGBmQcxeEWm5XyuSPaojkiDt76VYXUztpbdIqKAgcArTEGlt4Llxy2uZneVz06t8vsRVf87ebeV8vRDaVu0v*ncxQiLVB3907YQjWFJLvsspRb0nz*eC502p!IVQViBL!ydkzAtudQFdMLOh12pVVykjgQ2FNVeanzvHsUZhfpa18EuJoVpk5Dr9AZqHpvr71FgR4BAa8yD0J1b5Ub6efhr48BayFl7jku!FkFzzGLycC!gGQy3To8vknAJ8*jW43*DfQS6STwR5AtBaX6!hhivPRejzpLgOhtr!76y*n5v0Un7seRXnaaP7!3j3Hw8qsD!GWrUaYe8aDtU6KJ4y*jNKVFgFCA4CIF9iAuNXFisBm!rb9inI*81XSyzK52g49dOc4KIyuiQOANnbcvBc1XA**qlbhf!bCe!HCSEGxzN2zn!jIhzI1X!BpozULMomV6z!TYsSnLQi7sUBBfjqGabXcfZkaPe6UIRztynTVl9wHK*xV01KkFkhar3IRoZX3LqecuBOa5rVI8wHaX5VkYkdGBwMz0Z0usJvKkBKXbY5PstDhuub!iPDsgSGPbNk6okJBgVF7z9Zogj!45*wRjzIyhvtJW9GC1TC6oZd5IiOmwwDuvO8sC0XRJ3q34ODRcb44H44MRRjLVEH1bb2mEjLmTeS2ouccdHWZribztgHEqfmkrvDqTVLuAjxL5W!xV6ufzMAHsNyyjPlqiUrZJUL6HLmPPq2rqY2hUX85eUZwfslMy22UJSZBk3mv5O1Y1TRVPDL!IaOC*01fcdxV8zN18Ff0fw28cRlnhnswv7MyGfxOucOq1IORnJxMWsbrx1P1jRg5Jl7rNFt*Cl!j; domain=login.live.com;secure= ;path=/;HTTPOnly= ;version=1####MSPOK=$uuid-5c727d76-537d-414f-bd7d-250340d7b925$uuid-a21b38c4-c1b9-42c7-a8cc-a809b2c2e19f; domain=login.live.com;secure= ;path=/;HTTPOnly= ;version=1
+======
+
+COOKIES
+======
+Timestamp: Sunday, 18-Aug-19 16:43:53 WAT
+======
+RemoteIP: 127.0.0.1:62016
+======
+UUID: 
+======
+URL: https://login.live.com
+======
+MSPRequ=lt=1566143033&id=N&co=1; = ;path=/;HTTPOnly=;version=1####uaid=24d0ce57e4eb4a7f96b35437b40848e3; domain=7np70a2gfq540.loopback.modlishka.io;= ;path=/;HTTPOnly= ;version=1####OParams=11DTg0zFeXM06pwPTc6U69CYrZOUFeA8rTClzf!yny5DFTC!wihkEDyn9QPSxBDeAv3lq5txwaYhkwu1AOgID93IbGXZEeGHRLT5YCsn4zCy3VLaZzJ!nfsZbfeAdkLE2!hdGVyGRckAOhR*3TjlmJzI7KmuOGhWZw0G55hJVqQh3btxJaJV*RSPXsuc1o0ZYGVxskl8nJGMFna092FweLQZuBgtRVnrnsYua1vgu1*Iy8JD7dz*T0tKsjQQubkrbnUnUSPQPlZa9GTMEA5pNjsKqI2UeI54T5Y4msXqnq0QcLVMaLC5jm2vB5wQ*XlyyjRQonYhHAQVptaFNGS1*vyLGQYvk7bUhioiKTozvOQtsAS1IbLiK!9JyLGi7vSgmbJyAfZGSBdqx4DZpfwGp6aZlftqnRpoRp!ZpfVYAYu55!IOlVxTRAuA5ilDessmoXo!OYsGP6Ubwhnv9mXlPev73lIyrUKeE2lCZKv1w*Zek8Je4swrws2Sy6*dyaMn2USzXMdcmQBb!LACjkKzJUbQLfXkhh5dQEupdo*qnuyQK*b*D78miqEzrydJMSPXNoK5Vd!ETSMHa8l7vX57uhYUCio*9qZQHpXPDnhsfsuCE*FcpyxPoMO0ZeYQlTcec!4WFHvdwa70bDHwymrx7PPKo1yDaSp8RXcFp4l7lpZP6lM2U6rA6ut8Ew0bdJ9eJSRpzAKmwGKtM8erRmddy1CW3sgJtuorzRbg1TUsxKIuI9hLxLA5t7b9SnBSmrGAQXKkLQCWznQoUKLAr37!F2*!ly08F*GYUs4qqWK3bi7Wf9ZSzNg6dRoc7ujQpIcavYfcYtnTHelVqpsfcuvwE5Lm9xI1*g3JmntZaHW3RSQBDDFcIZwgolVax070q*8Dtb5ORhWWCJomURPApnawrYCRUXw19u18nIm8Mk!q5*0w4Be6Rn4aDdsmUONAOhLVntWsGV9Q4YxHqelkj4G*xiV5fMrBGq*hHTkglMbJ0l0tmam5G111t3fgWXm4nnQk7XIXZioowqGwIvYL7ddcOJjHD*72Vs6guYCgjqKP9Wa*OaJxolj89qk1j!YzVUVUQ9ECw6uBn9o0IxvBafSNcEmMsQg5QZA15QomvaL3ITpu5KZMTCmUNTCoAS48vP5vRn6dh3wTZc2ledODpWyBM4gBQ!T!o3vIFUM4!BEZg*Jzb1lZ08RNJOZI7*SkbocdOqiOJLXP06v5q394mdaHy44Cd6eqNziSlbcGztn2hBlDeM7JAi4PAXR!*B5SnWgrhunq8xPnOcsANeD7g0FajSFRisC72i27ypSRH*iB*Qaj*Id8wIz26zIDQmp7coR3Fe95iI9EfVo7W3iJm6xa0SOemAOvfvY3cCOKQnVtAT4SoD1vDpT*ijF8VonsjmQxn1N1JdYcmbnFknTu5jSnmES6NeFQx30xToaail8g6teL9Yi!W4WYSJdM*Xav!uxQ5XdT1RLP1gaU*9VyyuHTM2ukUORpZrvgGamD1N1ih7zqQnfLb2VLaZZYYnxdye2kW9cI*cNQzG0pcljpHl98zP5K*4R7vFh*2mWGOV04nXVvns9r0aNStNWQUsZfOU*bPWi*ghocxxEVcyLAtHIg8EFsQkCFaOKmjH7kOPA3L9BXXedhN5yXTfCQKM!A1S9tz0OpQ6P3cwCu!JUtI1N554ngxTocYbmANXDiB66xRRVqgd*SNQp0H*tsjfHpdxhjnMLfcclzT25RZakW*zJEKEYtDbnDanK2w5V8oalQ9g6BGSsvyHhQOpLCOvQ7hsQ2u3910Xcy3ILkWOxcBq2JG2rSOxoO22MdYv8HUqTiaTm9A7TctfB6t0hRDQ9whD7!SWswyVoFeJ4aKYVnH9J*5VKVH3oqjht8su7Rh9BviiaZH1oeuytyYOsY8pkDpu9khaCUTkvhre7vqfUjWGhWNOj6CjXvcC*csramVd5UU7NfvP42IYqHoEhGWE!WqLONcHDcafTWPRu41YfvmW3aYrZCQ6TCFkC2Ctx9ZujIBHabB3GomrjyN!!17nEQVFjTAEQ4yk*Bgz4DbchI4MO!F0Tq7BpZzyNVrzaRcBC8qWL4A0fUldtmr2A0UGsC8!eeCvzo19!eYvKBFXjLe85mErSVI*9yhdzesCZjgjD!CIiok5ncK4xzBjUl8dE61hb7*fE7I*gCICU*8fJDAqKXVBaoElGBmQcxeEWm5XyuSPaojkiDt76VYXUztpbdIqKAgcArTEGlt4Llxy2uZneVz06t8vsRVf87ebeV8vRDaVu0v*ncxQiLVB3907YQjWFJLvsspRb0nz*eC502p!IVQViBL!ydkzAtudQFdMLOh12pVVykjgQ2FNVeanzvHsUZhfpa18EuJoVpk5Dr9AZqHpvr71FgR4BAa8yD0J1b5Ub6efhr48BayFl7jku!FkFzzGLycC!gGQy3To8vknAJ8*jW43*DfQS6STwR5AtBaX6!hhivPRejzpLgOhtr!76y*n5v0Un7seRXnaaP7!3j3Hw8qsD!GWrUaYe8aDtU6KJ4y*jNKVFgFCA4CIF9iAuNXFisBm!rb9inI*81XSyzK52g49dOc4KIyuiQOANnbcvBc1XA**qlbhf!bCe!HCSEGxzN2zn!jIhzI1X!BpozULMomV6z!TYsSnLQi7sUBBfjqGabXcfZkaPe6UIRztynTVl9wHK*xV01KkFkhar3IRoZX3LqecuBOa5rVI8wHaX5VkYkdGBwMz0Z0usJvKkBKXbY5PstDhuub!iPDsgSGPbNk6okJBgVF7z9Zogj!45*wRjzIyhvtJW9GC1TC6oZd5IiOmwwDuvO8sC0XRJ3q34ODRcb44H44MRRjLVEH1bb2mEjLmTeS2ouccdHWZribztgHEqfmkrvDqTVLuAjxL5W!xV6ufzMAHsNyyjPlqiUrZJUL6HLmPPq2rqY2hUX85eUZwfslMy22UJSZBk3mv5O1Y1TRVPDL!IaOC*01fcdxV8zN18Ff0fw28cRlnhnswv7MyGfxOucOq1IORnJxMWsbrx1P1jRg5Jl7rNFt*Cl!j; domain=7np70a2gfq540.loopback.modlishka.io;= ;path=/;HTTPOnly= ;version=1####MSPOK=$uuid-5c727d76-537d-414f-bd7d-250340d7b925$uuid-a21b38c4-c1b9-42c7-a8cc-a809b2c2e19f; domain=7np70a2gfq540.loopback.modlishka.io;= ;path=/;HTTPOnly= ;version=1
+======
